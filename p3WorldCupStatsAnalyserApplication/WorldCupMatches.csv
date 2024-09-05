@@ -1,0 +1,838 @@
+Year,Host,Stage,Stadium,City,Attendance,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Half-time Home Goals,Half-time Away Goals,Home Team Initials,Away Team Initials
+1930,Uruguay,Group 1,Estadio Centenario,Montevideo ,2000,Chile,1,0,France, ,0,0,CHI,FRA
+1930,Uruguay,Group 3,Pocitos,Montevideo ,2549,Romania,3,1,Peru, ,1,0,ROU,PER
+1930,Uruguay,Group 1,Pocitos,Montevideo ,4444,France,4,1,Mexico, ,3,0,FRA,MEX
+1930,Uruguay,Group 1,Parque Central,Montevideo ,9249,Chile,3,0,Mexico, ,1,0,CHI,MEX
+1930,Uruguay,Group 4,Estadio Centenario,Montevideo ,12000,Paraguay,1,0,Belgium, ,1,0,PAR,BEL
+1930,Uruguay,Group 2,Parque Central,Montevideo ,18306,Yugoslavia,4,0,Bolivia, ,0,0,YUG,BOL
+1930,Uruguay,Group 4,Parque Central,Montevideo ,18306,USA,3,0,Paraguay, ,2,0,USA,PAR
+1930,Uruguay,Group 4,Parque Central,Montevideo ,18346,USA,3,0,Belgium, ,2,0,USA,BEL
+1930,Uruguay,Group 1,Parque Central,Montevideo ,23409,Argentina,1,0,France, ,0,0,ARG,FRA
+1930,Uruguay,Group 2,Parque Central,Montevideo ,24059,Yugoslavia,2,1,Brazil, ,2,0,YUG,BRA
+1930,Uruguay,Group 2,Estadio Centenario,Montevideo ,25466,Brazil,4,0,Bolivia, ,1,0,BRA,BOL
+1930,Uruguay,Group 1,Estadio Centenario,Montevideo ,41459,Argentina,3,1,Chile, ,2,1,ARG,CHI
+1930,Uruguay,Group 1,Estadio Centenario,Montevideo ,42100,Argentina,6,3,Mexico, ,3,1,ARG,MEX
+1930,Uruguay,Group 3,Estadio Centenario,Montevideo ,57735,Uruguay,1,0,Peru, ,0,0,URU,PER
+1930,Uruguay,Final,Estadio Centenario,Montevideo ,68346,Uruguay,4,2,Argentina, ,1,2,URU,ARG
+1930,Uruguay,Group 3,Estadio Centenario,Montevideo ,70022,Uruguay,4,0,Romania, ,4,0,URU,ROU
+1930,Uruguay,Semi-finals,Estadio Centenario,Montevideo ,72886,Argentina,6,1,USA, ,1,0,ARG,USA
+1930,Uruguay,Semi-finals,Estadio Centenario,Montevideo ,79867,Uruguay,6,1,Yugoslavia, ,3,1,URU,YUG
+1934,Italy,Quarter-finals,San Siro,Milan ,3000,Germany,2,1,Sweden, ,0,0,GER,SWE
+1934,Italy,Match for third place,Giorgio Ascarelli,Naples ,7000,Germany,3,2,Austria, ,3,1,GER,AUT
+1934,Italy,Preliminary round,Giovanni Berta,Florence ,8000,Germany,5,2,Belgium, ,1,2,GER,BEL
+1934,Italy,Preliminary round,Giorgio Ascarelli,Naples ,9000,Hungary,4,2,Egypt, ,2,2,HUN,EGY
+1934,Italy,Preliminary round,Littorio,Trieste ,9000,Czechoslovakia,2,1,Romania, ,0,1,TCH,ROU
+1934,Italy,Quarter-finals,Stadio Benito Mussolini,Turin ,12000,Czechoslovakia,3,2,Switzerland, ,1,1,TCH,SUI
+1934,Italy,Preliminary round,Littorale,Bologna ,14000,Sweden,3,2,Argentina, ,1,1,SWE,ARG
+1934,Italy,Semi-finals,Nazionale PNF,Rome ,15000,Czechoslovakia,3,1,Germany, ,1,0,TCH,GER
+1934,Italy,Preliminary round,Stadio Benito Mussolini,Turin ,16000,Austria,3,2,France,ET,0,0,AUT,FRA
+1934,Italy,Preliminary round,Luigi Ferraris,Genoa ,21000,Spain,3,1,Brazil, ,3,0,ESP,BRA
+1934,Italy,Quarter-finals,Littorale,Bologna ,23000,Austria,2,1,Hungary, ,1,0,AUT,HUN
+1934,Italy,Preliminary round,Nazionale PNF,Rome ,25000,Italy,7,1,USA, ,3,0,ITA,USA
+1934,Italy,Preliminary round,San Siro,Milan ,33000,Switzerland,3,2,Netherlands, ,2,1,SUI,NED
+1934,Italy,Quarter-finals,Giovanni Berta,Florence ,35000,Italy,1,1,Spain, ,0,0,ITA,ESP
+1934,Italy,Semi-finals,San Siro,Milan ,35000,Italy,1,0,Austria, ,1,0,ITA,AUT
+1934,Italy,Quarter-finals,Giovanni Berta,Florence ,43000,Italy,1,0,Spain, ,1,0,ITA,ESP
+1934,Italy,Final,Nazionale PNF,Rome ,55000,Italy,2,1,Czechoslovakia,ET,0,0,ITA,TCH
+1938,France,First round,Stade Municipal,Toulouse ,7000,Cuba,3,3,Romania, ,0,0,CUB,ROU
+1938,France,Quarter-finals,Fort Carree,Antibes ,7000,Sweden,8,0,Cuba, ,4,0,SWE,CUB
+1938,France,First round,Stade Municipal,Toulouse ,8000,Cuba,2,1,Romania, ,0,1,CUB,ROU
+1938,France,First round,Velodrome Municipale,Reims ,9000,Hungary,6,0,Dutch East Indies, ,4,0,HUN,INH
+1938,France,First round,Cavee Verte,Le Havre ,11000,Czechoslovakia,3,0,Netherlands,ET,0,0,TCH,NED
+1938,France,Match for third place,Stade du Parc Lescure,Bordeaux ,12000,Brazil,4,2,Sweden, ,1,2,BRA,SWE
+1938,France,First round,Stade de la Meinau,Strasbourg ,13452,Brazil,6,5,Poland,ET,0,0,BRA,POL
+1938,France,Quarter-finals,Victor Boucquey,Lille ,15000,Hungary,2,0,Switzerland, ,1,0,HUN,SUI
+1938,France,Quarter-finals,Stade du Parc Lescure,Bordeaux ,18141,Brazil,2,1,Czechoslovakia, ,0,1,BRA,TCH
+1938,France,First round,Stade V�lodrome,Marseilles ,19000,Italy,2,1,Norway,ET,0,0,ITA,NOR
+1938,France,Semi-finals,Parc des Princes,Paris ,20000,Hungary,5,1,Sweden, ,3,1,HUN,SWE
+1938,France,First round,Parc des Princes,Paris ,20025,Switzerland,4,2,Germany, ,1,2,SUI,GER
+1938,France,Quarter-finals,Stade du Parc Lescure,Bordeaux ,22021,Brazil,1,1,Czechoslovakia, ,0,0,BRA,TCH
+1938,France,First round,Parc des Princes,Paris ,27152,Switzerland,1,1,Germany, ,0,0,SUI,GER
+1938,France,First round,Stade Olympique,Colombes ,30454,France,3,1,Belgium, ,2,1,FRA,BEL
+1938,France,Semi-finals,Stade V�lodrome,Marseilles ,33000,Italy,2,1,Brazil, ,0,0,ITA,BRA
+1938,France,Final,Stade Olympique,Colombes ,45000,Italy,4,2,Hungary, ,3,1,ITA,HUN
+1938,France,Quarter-finals,Stade Olympique,Colombes ,58455,Italy,3,1,France, ,1,1,ITA,FRA
+1950,Brazil,Group 1,Eucaliptos,Porto Alegre ,3580,Switzerland,2,1,Mexico, ,2,0,SUI,MEX
+1950,Brazil,Group 4,Independencia,Belo Horizonte ,5284,Uruguay,8,0,Bolivia, ,4,0,URU,BOL
+1950,Brazil,Group 1,Independencia,Belo Horizonte ,7336,Yugoslavia,3,0,Switzerland, ,0,0,YUG,SUI
+1950,Brazil,Group 3,Durival de Brito,Curitiba ,7903,Sweden,2,2,Paraguay, ,2,1,SWE,PAR
+1950,Brazil,Group 6,Pacaembu,Sao Paulo ,7987,Uruguay,3,2,Sweden, ,1,2,URU,SWE
+1950,Brazil,Group 2,Ilha do Retiro,Recife ,8501,Chile,5,2,USA, ,2,0,CHI,USA
+1950,Brazil,Group 2,Durival de Brito,Curitiba ,9511,Spain,3,1,USA, ,0,1,ESP,USA
+1950,Brazil,Group 2,Independencia,Belo Horizonte ,10151,USA,1,0,England, ,1,0,USA,ENG
+1950,Brazil,Group 1,Eucaliptos,Porto Alegre ,11078,Yugoslavia,4,1,Mexico, ,2,0,YUG,MEX
+1950,Brazil,Group 6,Pacaembu,Sao Paulo ,11227,Sweden,3,1,Spain, ,2,0,SWE,ESP
+1950,Brazil,Group 2,Maracani,Rio De Janeiro ,19790,Spain,2,0,Chile, ,2,0,ESP,CHI
+1950,Brazil,Group 3,Pacaembu,Sao Paulo ,25811,Italy,2,0,Paraguay, ,1,0,ITA,PAR
+1950,Brazil,Group 2,Maracani,Rio De Janeiro ,29703,England,2,0,Chile, ,1,0,ENG,CHI
+1950,Brazil,Group 3,Pacaembu,Sao Paulo ,36502,Sweden,3,2,Italy, ,2,1,SWE,ITA
+1950,Brazil,Group 1,Pacaembu,Sao Paulo ,42032,Brazil,2,2,Switzerland, ,2,1,BRA,SUI
+1950,Brazil,Group 6,Pacaembu,Sao Paulo ,44802,Uruguay,2,2,Spain, ,1,2,URU,ESP
+1950,Brazil,Group 2,Maracani,Rio De Janeiro ,74462,Spain,1,0,England, ,0,0,ESP,ENG
+1950,Brazil,Group 1,Maracan,Rio De Janeiro ,81649,Brazil,4,0,Mexico, ,1,0,BRA,MEX
+1950,Brazil,Group 6,Maracani,Rio De Janeiro ,138886,Brazil,7,1,Sweden, ,3,0,BRA,SWE
+1950,Brazil,Group 1,Maracani,Rio De Janeiro ,142429,Brazil,2,0,Yugoslavia, ,1,0,BRA,YUG
+1950,Brazil,Group 6,Maracani,Rio De Janeiro ,152772,Brazil,6,1,Spain, ,3,0,BRA,ESP
+1950,Brazil,Group 6,Maracani,Rio De Janeiro ,173850,Uruguay,2,1,Brazil, ,0,0,URU,BRA
+1954,Switzerland,Group 2,Charmilles,Geneva ,4000,Turkey,7,0,Korea Republic, ,4,0,TUR,KOR
+1954,Switzerland,Group 2,Hardturm,Zurich ,13000,Hungary,9,0,Korea Republic, ,4,0,HUN,KOR
+1954,Switzerland,Group 1,Charmilles,Geneva ,13470,Brazil,5,0,Mexico, ,4,0,BRA,MEX
+1954,Switzerland,Group 4,St. Jakob,Basel ,14000,England,4,4,Belgium, ,0,0,ENG,BEL
+1954,Switzerland,Group 1,La Pontaise,Lausanne ,16000,Yugoslavia,1,0,France, ,1,0,YUG,FRA
+1954,Switzerland,Group 2,Hardturm,Zurich ,17000,Germany FR,7,2,Turkey, ,3,1,FRG,TUR
+1954,Switzerland,Quarter-finals,Charmilles,Geneva ,17000,Germany FR,2,0,Yugoslavia, ,1,0,FRG,YUG
+1954,Switzerland,Group 1,Charmilles,Geneva ,19000,France,3,2,Mexico, ,1,0,FRA,MEX
+1954,Switzerland,Group 3,Wankdorf Stadium,Berne ,20500,Uruguay,2,0,Czechoslovakia, ,0,0,URU,TCH
+1954,Switzerland,Group 4,Comunale di Cornaredo,Lugano ,24000,Italy,4,1,Belgium, ,1,0,ITA,BEL
+1954,Switzerland,Group 1,La Pontaise,Lausanne ,24637,Brazil,1,1,Yugoslavia, ,0,0,BRA,YUG
+1954,Switzerland,Group 3,Hardturm,Zurich ,25000,Austria,1,0,Scotland, ,1,0,AUT,SCO
+1954,Switzerland,Group 3,Hardturm,Zurich ,26000,Austria,5,0,Czechoslovakia, ,4,0,AUT,TCH
+1954,Switzerland,Group 2,Wankdorf Stadium,Berne ,28000,Germany FR,4,1,Turkey, ,1,1,FRG,TUR
+1954,Switzerland,Quarter-finals,St. Jakob,Basel ,28000,Uruguay,4,2,England, ,2,1,URU,ENG
+1954,Switzerland,Group 4,St. Jakob,Basel ,30000,Switzerland,4,1,Italy, ,1,0,SUI,ITA
+1954,Switzerland,Match for third place,Hardturm,Zurich ,32000,Austria,3,1,Uruguay, ,1,1,AUT,URU
+1954,Switzerland,Group 3,St. Jakob,Basel ,34000,Uruguay,7,0,Scotland, ,2,0,URU,SCO
+1954,Switzerland,Quarter-finals,La Pontaise,Lausanne ,35000,Austria,7,5,Switzerland, ,5,4,AUT,SUI
+1954,Switzerland,Quarter-finals,Wankdorf Stadium,Berne ,40000,Hungary,4,2,Brazil, ,2,1,HUN,BRA
+1954,Switzerland,Group 4,La Pontaise,Lausanne ,43000,Switzerland,2,1,Italy, ,1,1,SUI,ITA
+1954,Switzerland,Group 4,Wankdorf Stadium,Berne ,43500,England,2,0,Switzerland, ,1,0,ENG,SUI
+1954,Switzerland,Semi-finals,La Pontaise,Lausanne ,45000,Hungary,4,2,Uruguay,ET,0,0,HUN,URU
+1954,Switzerland,Group 2,St. Jakob,Basel ,56000,Hungary,8,3,Germany FR, ,3,1,HUN,FRG
+1954,Switzerland,Semi-finals,St. Jakob,Basel ,58000,Germany FR,6,1,Austria, ,1,0,FRG,AUT
+1954,Switzerland,Final,Wankdorf Stadium,Berne ,62500,Germany FR,3,2,Hungary, ,2,2,FRG,HUN
+1958,Sweden,Group 3,Rasunda Stadium,Solna ,2823,Wales,2,1,Hungary, ,0,1,WAL,HUN
+1958,Sweden,Group 1,Malmo Stadion,Malm� ,6196,Northern Ireland,2,1,Czechoslovakia,ET,0,0,NIR,TCH
+1958,Sweden,Group 2,Arosvallen,Vasteras ,9591,Yugoslavia,1,1,Scotland, ,1,0,YUG,SCO
+1958,Sweden,Group 1,Orjans Vall,Halmstad ,10647,Northern Ireland,1,0,Czechoslovakia, ,1,0,NIR,TCH
+1958,Sweden,Group 2,Idrottsparken,Norrk�Ping ,11665,Paraguay,3,2,Scotland, ,2,1,PAR,SCO
+1958,Sweden,Quarter-finals,Idrottsparken,NorrkPing ,11800,France,4,0,Northern Ireland, ,1,0,FRA,NIR
+1958,Sweden,Group 2,Arosvallen,Vasteras ,12217,Yugoslavia,3,2,France, ,1,1,YUG,FRA
+1958,Sweden,Group 2,Tunavallen,Eskilstuna ,13103,Paraguay,3,3,Yugoslavia, ,1,2,PAR,YUG
+1958,Sweden,Group 3,Jarnvallen,Sandviken ,13300,Hungary,4,0,Mexico, ,1,0,HUN,MEX
+1958,Sweden,Group 2,Eyravallen,Orebro ,13554,France,2,1,Scotland, ,2,0,FRA,SCO
+1958,Sweden,Group 1,Orjans Vall,Halmstad ,14174,Argentina,3,1,Northern Ireland, ,1,1,ARG,NIR
+1958,Sweden,Group 3,Rasunda Stadium,Solna ,15150,Mexico,1,1,Wales, ,0,1,MEX,WAL
+1958,Sweden,Group 3,Jarnvallen,Sandviken ,15343,Hungary,1,1,Wales, ,1,1,HUN,WAL
+1958,Sweden,Group 4,Ryavallen,Boras ,15872,England,2,2,Austria, ,0,1,ENG,AUT
+1958,Sweden,Group 1,Olympia Stadium,Helsingborg ,16418,Czechoslovakia,6,1,Argentina, ,3,0,TCH,ARG
+1958,Sweden,Group 2,Idrottsparken,Norrk�Ping ,16518,France,7,3,Paraguay, ,2,2,FRA,PAR
+1958,Sweden,Group 4,Rimnersvallen,Udevalla ,17788,Brazil,3,0,Austria, ,1,0,BRA,AUT
+1958,Sweden,Quarter-finals,Malmo Stadion,Malmo,20055,Germany FR,1,0,Yugoslavia, ,1,0,FRG,YUG
+1958,Sweden,Group 4,Ryavallen,Boras ,21239,Soviet Union,2,0,Austria, ,1,0,URS,AUT
+1958,Sweden,Group 1,Malmo Stadion,Malm� ,21990,Germany FR,2,2,Northern Ireland, ,1,1,FRG,NIR
+1958,Sweden,Group 4,Nya Ullevi,Gothenburg ,23182,Soviet Union,1,0,England, ,0,0,URS,ENG
+1958,Sweden,Group 1,Olympia Stadium,Helsingborg ,25000,Germany FR,2,2,Czechoslovakia, ,0,2,FRG,TCH
+1958,Sweden,Quarter-finals,Nya Ullevi,Gothenburg ,25923,Brazil,1,0,Wales, ,0,0,BRA,WAL
+1958,Sweden,Semi-finals,Rasunda Stadium,Solna ,27100,Brazil,5,2,France, ,2,1,BRA,FRA
+1958,Sweden,Group 3,Rasunda Stadium,Solna ,30287,Sweden,0,0,Wales, ,0,0,SWE,WAL
+1958,Sweden,Group 1,Malmo Stadion,Malm� ,31156,Argentina,1,3,Germany FR, ,1,2,ARG,FRG
+1958,Sweden,Quarter-finals,Rasunda Stadium,Solna ,31900,Sweden,2,0,Soviet Union, ,0,0,SWE,URS
+1958,Sweden,Match for third place,Nya Ullevi,Gothenburg ,32483,France,6,3,Germany FR, ,3,1,FRA,FRG
+1958,Sweden,Group 3,Rasunda Stadium,Solna ,34107,Sweden,3,0,Mexico, ,1,0,SWE,MEX
+1958,Sweden,Group 3,Rasunda Stadium,Solna ,38850,Sweden,2,1,Hungary, ,1,0,SWE,HUN
+1958,Sweden,Group 4,Nya Ullevi,Gothenburg ,40895,Brazil,0,0,England, ,0,0,BRA,ENG
+1958,Sweden,Group 4,Nya Ullevi,Gothenburg ,49348,Soviet Union,2,2,England, ,1,0,URS,ENG
+1958,Sweden,Semi-finals,Nya Ullevi,Gothenburg ,49471,Sweden,3,1,Germany FR, ,1,1,SWE,FRG
+1958,Sweden,Final,Rasunda Stadium,Solna ,49737,Brazil,5,2,Sweden, ,2,1,BRA,SWE
+1958,Sweden,Group 4,Nya Ullevi,Gothenburg ,50928,Brazil,2,0,Soviet Union, ,1,0,BRA,URS
+1962,Chile,Group 4,Estadio El Teniente-Codelco,Rancagua ,5700,England,0,0,Bulgaria, ,0,0,ENG,BUL
+1962,Chile,Semi-finals,Estadio Sausalito,Vina Del Mar ,5890,Czechoslovakia,3,1,Yugoslavia, ,0,0,TCH,YUG
+1962,Chile,Group 4,Estadio El Teniente-Codelco,Rancagua ,7134,Argentina,1,0,Bulgaria, ,1,0,ARG,BUL
+1962,Chile,Group 1,Carlos Dittborn,Arica ,7167,Yugoslavia,5,0,Colombia, ,2,0,YUG,COL
+1962,Chile,Group 4,Estadio El Teniente-Codelco,Rancagua ,7442,Hungary,6,1,Bulgaria, ,4,0,HUN,BUL
+1962,Chile,Group 1,Carlos Dittborn,Arica ,7908,Uruguay,2,1,Colombia, ,0,1,URU,COL
+1962,Chile,Group 4,Estadio El Teniente-Codelco,Rancagua ,7938,Hungary,2,1,England, ,1,0,HUN,ENG
+1962,Chile,Group 4,Estadio El Teniente-Codelco,Rancagua ,7945,Hungary,0,0,Argentina, ,0,0,HUN,ARG
+1962,Chile,Group 1,Carlos Dittborn,Arica ,8040,Soviet Union,4,4,Colombia, ,3,1,URS,COL
+1962,Chile,Group 1,Carlos Dittborn,Arica ,8829,Yugoslavia,3,1,Uruguay, ,2,1,YUG,URU
+1962,Chile,Group 1,Carlos Dittborn,Arica ,9622,Soviet Union,2,0,Yugoslavia, ,0,0,URS,YUG
+1962,Chile,Group 4,Estadio El Teniente-Codelco,Rancagua ,9794,England,3,1,Argentina, ,2,0,ENG,ARG
+1962,Chile,Group 1,Carlos Dittborn,Arica ,9973,Soviet Union,2,1,Uruguay, ,1,0,URS,URU
+1962,Chile,Group 3,Estadio Sausalito,Vina Del Mar ,10484,Brazil,2,0,Mexico, ,0,0,BRA,MEX
+1962,Chile,Group 3,Estadio Sausalito,Vina Del Mar ,10648,Mexico,3,1,Czechoslovakia, ,2,1,MEX,TCH
+1962,Chile,Quarter-finals,Estadio El Teniente-Codelco,Rancagua ,11690,Czechoslovakia,1,0,Hungary, ,1,0,TCH,HUN
+1962,Chile,Group 3,Estadio Sausalito,Vina Del Mar ,11875,Spain,1,0,Mexico, ,0,0,ESP,MEX
+1962,Chile,Group 3,Estadio Sausalito,Vina Del Mar ,12700,Czechoslovakia,1,0,Spain, ,0,0,TCH,ESP
+1962,Chile,Group 3,Estadio Sausalito,Vina Del Mar ,14903,Brazil,0,0,Czechoslovakia, ,0,0,BRA,TCH
+1962,Chile,Quarter-finals,Carlos Dittborn,Arica ,17268,Chile,2,1,Soviet Union, ,2,1,CHI,URS
+1962,Chile,Quarter-finals,Estadio Sausalito,Vina Del Mar ,17736,Brazil,3,1,England, ,1,1,BRA,ENG
+1962,Chile,Group 3,Estadio Sausalito,Vina Del Mar ,18715,Brazil,2,1,Spain, ,0,1,BRA,ESP
+1962,Chile,Group 2,Nacional,Santiago De Chile ,59828,Italy,3,0,Switzerland, ,1,0,ITA,SUI
+1962,Chile,Quarter-finals,Nacional,Santiago De Chile ,63324,Yugoslavia,1,0,Germany FR, ,0,0,YUG,FRG
+1962,Chile,Group 2,Nacional,Santiago De Chile ,64922,Germany FR,2,1,Switzerland, ,1,0,FRG,SUI
+1962,Chile,Group 2,Nacional,Santiago De Chile ,65006,Chile,3,1,Switzerland, ,1,1,CHI,SUI
+1962,Chile,Group 2,Nacional,Santiago De Chile ,65440,Germany FR,0,0,Italy, ,0,0,FRG,ITA
+1962,Chile,Group 2,Nacional,Santiago De Chile ,66057,Chile,2,0,Italy, ,0,0,CHI,ITA
+1962,Chile,Match for third place,Nacional,Santiago De Chile ,66697,Chile,1,0,Yugoslavia, ,0,0,CHI,YUG
+1962,Chile,Group 2,Nacional,Santiago De Chile ,67224,Germany FR,2,0,Chile, ,1,0,FRG,CHI
+1962,Chile,Final,Nacional,Santiago De Chile ,68679,Brazil,3,1,Czechoslovakia, ,1,1,BRA,TCH
+1962,Chile,Semi-finals,Nacional,Santiago De Chile ,76594,Brazil,4,2,Chile, ,2,1,BRA,CHI
+1966,England,Group 4,Ayresome Park,Middlesbrough ,13792,Korea DPR,1,1,Chile, ,0,1,PRK,CHI
+1966,England,Group 4,Roker Park Ground,Sunderland ,16027,Soviet Union,2,1,Chile, ,1,1,URS,CHI
+1966,England,Group 4,Ayresome Park,Middlesbrough ,17829,Korea DPR,1,0,Italy, ,1,0,PRK,ITA
+1966,England,Group 4,Ayresome Park,Middlesbrough ,23006,Soviet Union,3,0,Korea DPR, ,2,0,URS,PRK
+1966,England,Group 3,Old Trafford Stadium,Manchester ,24129,Hungary,3,1,Bulgaria, ,2,1,HUN,BUL
+1966,England,Group 3,Old Trafford Stadium,Manchester ,25438,Portugal,3,0,Bulgaria, ,2,0,POR,BUL
+1966,England,Quarter-finals,Roker Park Ground,Sunderland ,26844,Soviet Union,2,1,Hungary, ,1,0,URS,HUN
+1966,England,Group 4,Roker Park Ground,Sunderland ,27199,Italy,2,0,Chile, ,1,0,ITA,CHI
+1966,England,Group 4,Roker Park Ground,Sunderland ,27793,Soviet Union,1,0,Italy, ,0,0,URS,ITA
+1966,England,Group 3,Old Trafford Stadium,Manchester ,29886,Portugal,3,1,Hungary, ,1,0,POR,HUN
+1966,England,Group 2,Hillsborough,Sheffield ,32028,Spain,2,1,Switzerland, ,0,1,ESP,SUI
+1966,England,Group 2,Hillsborough,Sheffield ,32127,Argentina,2,0,Switzerland, ,0,0,ARG,SUI
+1966,England,Group 2,Hillsborough,Sheffield ,36127,Germany FR,5,0,Switzerland, ,3,0,FRG,SUI
+1966,England,Semi-finals,Goodison Park,Liverpool ,38273,Germany FR,2,1,Soviet Union, ,1,0,FRG,URS
+1966,England,Quarter-finals,Hillsborough,Sheffield ,40007,Germany FR,4,0,Uruguay, ,1,0,FRG,URU
+1966,England,Quarter-finals,Goodison Park,Liverpool ,40248,Portugal,5,3,Korea DPR, ,2,3,POR,PRK
+1966,England,Group 2,Villa Park,Birmingham ,42187,Germany FR,2,1,Spain, ,1,1,FRG,ESP
+1966,England,Group 2,Villa Park,Birmingham ,42738,Argentina,2,1,Spain, ,0,0,ARG,ESP
+1966,England,Group 1,White City,London ,45662,Uruguay,2,1,France, ,2,1,URU,FRA
+1966,England,Group 2,Villa Park,Birmingham ,46587,Germany FR,0,0,Argentina, ,0,0,FRG,ARG
+1966,England,Group 3,Goodison Park,Liverpool ,47308,Brazil,2,0,Bulgaria, ,1,0,BRA,BUL
+1966,England,Group 3,Goodison Park,Liverpool ,51387,Hungary,3,1,Brazil, ,1,1,HUN,BRA
+1966,England,Group 3,Goodison Park,Liverpool ,58479,Portugal,3,1,Brazil, ,2,0,POR,BRA
+1966,England,Group 1,Wembley Stadium,London ,61112,Uruguay,0,0,Mexico, ,0,0,URU,MEX
+1966,England,Group 1,Wembley Stadium,London ,69237,France,1,1,Mexico, ,0,0,FRA,MEX
+1966,England,Group 1,Wembley Stadium,London ,87148,England,0,0,Uruguay, ,0,0,ENG,URU
+1966,England,Match for third place,Wembley Stadium,London ,87696,Portugal,2,1,Soviet Union, ,1,1,POR,URS
+1966,England,Quarter-finals,Wembley Stadium,London ,90584,England,1,0,Argentina, ,0,0,ENG,ARG
+1966,England,Group 1,Wembley Stadium,London ,92570,England,2,0,Mexico, ,1,0,ENG,MEX
+1966,England,Semi-finals,Wembley Stadium,London ,94493,England,2,1,Portugal, ,1,0,ENG,POR
+1966,England,Final,Wembley Stadium,London ,96924,England,4,2,Germany FR,ET,0,0,ENG,FRG
+1966,England,Group 1,Wembley Stadium,London ,98270,England,2,0,France, ,1,0,ENG,FRA
+1970,Mexico,Group 2,Luis Dosal,Toluca ,9624,Sweden,1,1,Israel, ,0,0,SWE,ISR
+1970,Mexico,Group 2,Luis Dosal,Toluca ,9890,Italy,0,0,Israel, ,0,0,ITA,ISR
+1970,Mexico,Group 4,Nou Camp - Estadio Lei,Leon ,12299,Bulgaria,1,1,Morocco, ,1,0,BUL,MAR
+1970,Mexico,Group 4,Nou Camp - Estadio Lei,Leon ,12710,Germany FR,5,2,Bulgaria, ,2,1,FRG,BUL
+1970,Mexico,Group 4,Nou Camp - Estadio Lei,Leon ,12942,Germany FR,2,1,Morocco, ,0,1,FRG,MAR
+1970,Mexico,Group 2,Luis Dosal,Toluca ,13433,Italy,1,0,Sweden, ,1,0,ITA,SWE
+1970,Mexico,Group 4,Nou Camp - Estadio Lei,Leon ,13537,Peru,3,0,Morocco, ,0,0,PER,MAR
+1970,Mexico,Group 4,Nou Camp - Estadio Lei,Leon ,13765,Peru,3,2,Bulgaria, ,0,1,PER,BUL
+1970,Mexico,Group 4,Leon,Leon ,17875,Germany FR,3,1,Peru, ,3,1,FRG,PER
+1970,Mexico,Group 2,Cuauhtemoc,Puebla ,18163,Sweden,1,0,Uruguay, ,0,0,SWE,URU
+1970,Mexico,Group 2,Cuauhtemoc,Puebla ,20654,Uruguay,2,0,Israel, ,1,0,URU,ISR
+1970,Mexico,Quarter-finals,Nou Camp - Estadio Lei,Leon ,23357,Germany FR,3,2,England,ET,0,0,FRG,ENG
+1970,Mexico,Quarter-finals,Estadio Azteca,Mexico City ,26085,Uruguay,1,0,Soviet Union,ET,0,0,URU,URS
+1970,Mexico,Quarter-finals,Luis Dosal,Toluca ,26851,Italy,4,1,Mexico, ,1,1,ITA,MEX
+1970,Mexico,Group 2,Cuauhtemoc,Puebla ,29968,Uruguay,0,0,Italy, ,0,0,URU,ITA
+1970,Mexico,Group 3,Jalisco,Guadalajara ,49292,England,1,0,Czechoslovakia, ,0,0,ENG,TCH
+1970,Mexico,Group 3,Jalisco,Guadalajara ,50560,England,1,0,Romania, ,0,0,ENG,ROU
+1970,Mexico,Group 3,Jalisco,Guadalajara ,50804,Brazil,3,2,Romania, ,2,1,BRA,ROU
+1970,Mexico,Semi-finals,Jalisco,Guadalajara ,51261,Brazil,3,1,Uruguay, ,1,1,BRA,URU
+1970,Mexico,Group 3,Jalisco,Guadalajara ,52897,Brazil,4,1,Czechoslovakia, ,1,1,BRA,TCH
+1970,Mexico,Quarter-finals,Jalisco,Guadalajara ,54233,Brazil,4,2,Peru, ,2,1,BRA,PER
+1970,Mexico,Group 3,Jalisco,Guadalajara ,56818,Romania,2,1,Czechoslovakia, ,0,1,ROU,TCH
+1970,Mexico,Group 3,Jalisco,Guadalajara ,66843,Brazil,1,0,England, ,0,0,BRA,ENG
+1970,Mexico,Group 1,Estadio Azteca,Mexico City ,89979,Soviet Union,2,0,El Salvador, ,0,0,URS,SLV
+1970,Mexico,Group 1,Estadio Azteca,Mexico City ,92205,Belgium,3,0,El Salvador, ,1,0,BEL,SLV
+1970,Mexico,Group 1,Estadio Azteca,Mexico City ,95261,Soviet Union,4,1,Belgium, ,1,0,URS,BEL
+1970,Mexico,Semi-finals,Estadio Azteca,Mexico City ,102444,Italy,4,3,Germany FR,ET,0,0,ITA,FRG
+1970,Mexico,Group 1,Estadio Azteca,Mexico City ,103058,Mexico,4,0,El Salvador, ,1,0,MEX,SLV
+1970,Mexico,Match for third place,Estadio Azteca,Mexico City ,104403,Germany FR,1,0,Uruguay, ,1,0,FRG,URU
+1970,Mexico,Group 1,Estadio Azteca,Mexico City ,107160,Mexico,0,0,Soviet Union, ,0,0,MEX,URS
+1970,Mexico,Final,Estadio Azteca,Mexico City ,107412,Brazil,4,1,Italy, ,1,1,BRA,ITA
+1970,Mexico,Group 1,Estadio Azteca,Mexico City ,108192,Mexico,1,0,Belgium, ,1,0,MEX,BEL
+1974,Germany,Group 3,Niedersachsenstadion,Hanover ,13400,Bulgaria,1,1,Uruguay, ,0,0,BUL,URU
+1974,Germany,Group 1,Volksparkstadion,Hamburg ,17000,German DR,2,0,Australia, ,0,0,GDR,AUS
+1974,Germany,Group 1,Olympiastadion,Berlin West ,17400,Australia,0,0,Chile, ,0,0,AUS,CHI
+1974,Germany,Group 3,Rheinstadion,D�Sseldorf ,23800,Sweden,0,0,Bulgaria, ,0,0,SWE,BUL
+1974,Germany,Group 4,Olympiastadion,Munich ,25300,Haiti,0,7,Poland, ,0,5,HAI,POL
+1974,Germany,Group 4,Olympiastadion,Munich ,25900,Argentina,4,1,Haiti, ,2,0,ARG,HAI
+1974,Germany,Group 2,Westfalenstadion,Dortmund ,27000,Zaire,0,2,Scotland, ,0,2,ZAI,SCO
+1974,Germany,Group 1,Olympiastadion,Berlin West ,28300,Chile,1,1,German DR, ,0,0,CHI,GDR
+1974,Germany,Group 3,Rheinstadion,D�Sseldorf ,28300,Sweden,3,0,Uruguay, ,0,0,SWE,URU
+1974,Germany,Group 2,Parkstadion,Gelsenkirchen ,31700,Yugoslavia,9,0,Zaire, ,6,0,YUG,ZAI
+1974,Germany,Group 4,Neckarstadion,Stuttgart ,32700,Poland,3,2,Argentina, ,2,0,POL,ARG
+1974,Germany,Group 2,Parkstadion,Gelsenkirchen ,36200,Zaire,0,3,Brazil, ,0,1,ZAI,BRA
+1974,Germany,Group A,Niedersachsenstadion,Hanover ,39400,Argentina,1,2,Brazil, ,1,1,ARG,BRA
+1974,Germany,Group B,Rheinstadion,D�Sseldorf ,41300,Sweden,2,1,Yugoslavia, ,1,1,SWE,YUG
+1974,Germany,Group B,Neckarstadion,Stuttgart ,44955,Sweden,0,1,Poland, ,0,1,SWE,POL
+1974,Germany,Group 4,Olympiastadion,Munich ,53000,Italy,3,1,Haiti, ,0,0,ITA,HAI
+1974,Germany,Group 1,Volksparkstadion,Hamburg ,53300,Australia,0,3,Germany FR, ,0,2,AUS,FRG
+1974,Germany,Group 3,Westfalenstadion,Dortmund ,53300,Bulgaria,1,4,Netherlands, ,0,2,BUL,NED
+1974,Germany,Group 3,Westfalenstadion,Dortmund ,53700,Netherlands,0,0,Sweden, ,0,0,NED,SWE
+1974,Germany,Group A,Westfalenstadion,Dortmund ,53700,Netherlands,2,0,Brazil, ,0,0,NED,BRA
+1974,Germany,Group A,Parkstadion,Gelsenkirchen ,54254,Argentina,1,1,German DR, ,1,1,ARG,GDR
+1974,Germany,Group 3,Niedersachsenstadion,Hanover ,55100,Uruguay,0,2,Netherlands, ,0,1,URU,NED
+1974,Germany,Group 2,Waldstadion,Frankfurt/Main ,56000,Scotland,1,1,Yugoslavia, ,0,0,SCO,YUG
+1974,Germany,Group A,Parkstadion,Gelsenkirchen ,56548,Netherlands,4,0,Argentina, ,2,0,NED,ARG
+1974,Germany,Group B,Waldstadion,Frankfurt/Main ,58000,Poland,2,1,Yugoslavia, ,1,1,POL,YUG
+1974,Germany,Group A,Niedersachsenstadion,Hanover ,59863,Brazil,1,0,German DR, ,0,0,BRA,GDR
+1974,Germany,Group 1,Volksparkstadion,Hamburg ,60200,German DR,1,0,Germany FR, ,0,0,GDR,FRG
+1974,Germany,Group 2,Waldstadion,Frankfurt/Main ,62000,Brazil,0,0,Yugoslavia, ,0,0,BRA,YUG
+1974,Germany,Group 2,Waldstadion,Frankfurt/Main ,62000,Scotland,0,0,Brazil, ,0,0,SCO,BRA
+1974,Germany,Group B,Waldstadion,Frankfurt/Main ,62000,Poland,0,1,Germany FR, ,0,0,POL,FRG
+1974,Germany,Group B,Rheinstadion,D�Sseldorf ,67385,Yugoslavia,0,2,Germany FR, ,0,1,YUG,FRG
+1974,Germany,Group B,Rheinstadion,D�Sseldorf ,67800,Germany FR,4,2,Sweden, ,0,1,FRG,SWE
+1974,Germany,Group A,Parkstadion,Gelsenkirchen ,68348,German DR,0,2,Netherlands, ,0,1,GDR,NED
+1974,Germany,Group 4,Neckarstadion,Stuttgart ,70100,Argentina,1,1,Italy, ,1,1,ARG,ITA
+1974,Germany,Group 4,Neckarstadion,Stuttgart ,70100,Poland,2,1,Italy, ,2,0,POL,ITA
+1974,Germany,Match for third place,Olympiastadion,Munich ,77100,Brazil,0,1,Poland, ,0,0,BRA,POL
+1974,Germany,Final,Olympiastadion,Munich ,78200,Netherlands,1,2,Germany FR, ,1,2,NED,FRG
+1974,Germany,Group 1,Olympiastadion,Berlin West ,81100,Germany FR,1,0,Chile, ,1,0,FRG,CHI
+1978,Argentina,Group 4,Carreras,Cordoba ,7938,Scotland,1,1,IR Iran, ,1,0,SCO,IRN
+1978,Argentina,Group 2,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,9624,Poland,1,0,Tunisia, ,1,0,POL,TUN
+1978,Argentina,Group 2,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,17396,Tunisia,3,1,Mexico, ,0,1,TUN,MEX
+1978,Argentina,Group 4,Carreras,Cordoba ,21262,Peru,4,1,Iran, ,3,1,PER,IRN
+1978,Argentina,Group 2,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,22651,Poland,3,1,Mexico, ,1,0,POL,MEX
+1978,Argentina,Group 1,Minella,Mar Del Plata ,23127,France,3,1,Hungary, ,3,1,FRA,HUN
+1978,Argentina,Group A,Carreras,Cordoba ,25050,Netherlands,5,1,Austria, ,3,0,NED,AUT
+1978,Argentina,Group 1,Estadio Jos� Mar�a Minella,Mar Del Plata ,26533,Italy,3,1,Hungary, ,2,0,ITA,HUN
+1978,Argentina,Group 4,San Martin,Mendoza ,28125,Netherlands,0,0,Peru, ,0,0,NED,PER
+1978,Argentina,Group 2,Chateau Carreras,Cordoba ,30667,Germany FR,0,0,Tunisia, ,0,0,FRG,TUN
+1978,Argentina,Group B,San Martin,Mendoza ,31278,Brazil,3,0,Peru, ,2,0,BRA,PER
+1978,Argentina,Group 3,Minella,Mar Del Plata ,32569,Sweden,1,1,Brazil, ,1,1,SWE,BRA
+1978,Argentina,Group 4,San Martin,Mendoza ,33431,Netherlands,3,0,IR Iran, ,1,0,NED,IRN
+1978,Argentina,Group 3,Minella,Mar Del Plata ,34771,Brazil,0,0,Spain, ,0,0,BRA,ESP
+1978,Argentina,Group 4,San Martin,Mendoza ,35130,Scotland,3,2,Netherlands, ,1,1,SCO,NED
+1978,Argentina,Group 3,Minella,Mar Del Plata ,35221,Brazil,1,0,Austria, ,1,0,BRA,AUT
+1978,Argentina,Group 2,Carreras,Cordoba ,35258,Germany FR,6,0,Mexico, ,4,0,FRG,MEX
+1978,Argentina,Group B,San Martin,Mendoza ,35288,Poland,1,0,Peru, ,0,0,POL,PER
+1978,Argentina,Group B,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,37091,Argentina,2,0,Poland, ,1,0,ARG,POL
+1978,Argentina,Group B,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,37315,Argentina,6,0,Peru, ,2,0,ARG,PER
+1978,Argentina,Group B,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,37326,Argentina,0,0,Brazil, ,0,0,ARG,BRA
+1978,Argentina,Group 4,Carreras,Cordoba ,37927,Peru,3,1,Scotland, ,1,1,PER,SCO
+1978,Argentina,Group A,Carreras,Cordoba ,38318,Austria,3,2,Germany FR, ,0,1,AUT,FRG
+1978,Argentina,Group B,San Martin,Mendoza ,39586,Brazil,3,1,Poland, ,1,1,BRA,POL
+1978,Argentina,Group A,Chateau Carreras,Cordoba ,40750,Germany FR,2,2,Netherlands, ,1,1,FRG,NED
+1978,Argentina,Group 3,Jose Amalfitani,Buenos Aires ,40841,Austria,2,1,Spain, ,1,1,AUT,ESP
+1978,Argentina,Group 3,Jose Amalfitani,Buenos Aires ,41424,Austria,1,0,Sweden, ,1,0,AUT,SWE
+1978,Argentina,Group 3,Jose Amalfitani,Buenos Aires ,42132,Spain,1,0,Sweden, ,0,0,ESP,SWE
+1978,Argentina,Group 1,Minella,Mar Del Plata ,42373,Italy,2,1,France, ,1,1,ITA,FRA
+1978,Argentina,Group A,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,66695,Italy,1,0,Austria, ,1,0,ITA,AUT
+1978,Argentina,Group A,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,67433,Netherlands,2,1,Italy, ,0,1,NED,ITA
+1978,Argentina,Group A,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,67547,Germany FR,0,0,Italy, ,0,0,FRG,ITA
+1978,Argentina,Group 2,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,67579,Germany FR,0,0,Poland, ,0,0,FRG,POL
+1978,Argentina,Match for third place,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,69659,Brazil,2,1,Italy, ,0,1,BRA,ITA
+1978,Argentina,Final,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,71483,Argentina,3,1,Netherlands,ET,0,0,ARG,NED
+1978,Argentina,Group 1,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,71615,Argentina,2,1,Hungary, ,1,1,ARG,HUN
+1978,Argentina,Group 1,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,71666,Argentina,2,1,France, ,1,0,ARG,FRA
+1978,Argentina,Group 1,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,71712,Italy,1,0,Argentina, ,0,0,ITA,ARG
+1982,Spain,Group 1,Riazor,La Coru�A ,11000,Peru,0,0,Cameroon, ,0,0,PER,CMR
+1982,Spain,Group 3,Nuevo Estadio,Elche ,15000,Belgium,1,0,El Salvador, ,1,0,BEL,SLV
+1982,Spain,Group 5,La Romareda,Zaragoza ,15000,Honduras,1,1,Northern Ireland, ,0,1,HON,NIR
+1982,Spain,Group 2,Carlos Tartiere,Oviedo ,16000,Algeria,3,2,Chile, ,3,0,ALG,CHI
+1982,Spain,Group 1,Riazor,La Coru�A ,19000,Poland,0,0,Cameroon, ,0,0,POL,CMR
+1982,Spain,Group 6,La Rosaleda,Malaga ,19000,Soviet Union,3,0,New Zealand, ,1,0,URS,NZL
+1982,Spain,Group 1,Estadio Municipal,Vigo ,20000,Italy,1,1,Cameroon, ,0,0,ITA,CMR
+1982,Spain,Group 4,Vicente Calderon,Madrid ,20000,Austria,2,2,Northern Ireland, ,0,1,AUT,NIR
+1982,Spain,Group 2,Carlos Tartiere,Oviedo ,22000,Algeria,0,2,Austria, ,0,0,ALG,AUT
+1982,Spain,Group 2,Carlos Tartiere,Oviedo ,22500,Chile,0,1,Austria, ,0,1,CHI,AUT
+1982,Spain,Group 3,Nuevo Estadio,Elche ,23000,Hungary,10,1,El Salvador, ,3,0,HUN,SLV
+1982,Spain,Group 4,Jose Zorrilla,Valladolid ,25000,Czechoslovakia,1,1,Kuwait, ,1,0,TCH,KUW
+1982,Spain,Group 5,La Romareda,Zaragoza ,25000,Yugoslavia,0,0,Northern Ireland, ,0,0,YUG,NIR
+1982,Spain,Group 1,Estadio Municipal ,Vigo ,25000,Italy,1,1,Peru, ,1,0,ITA,PER
+1982,Spain,Group 1,Riazor,La Coru�A ,25000,Poland,5,1,Peru, ,0,0,POL,PER
+1982,Spain,Group 5,La Romareda,Zaragoza ,25000,Honduras,0,1,Yugoslavia, ,0,0,HON,YUG
+1982,Spain,Group 4,Jose Zorrilla,Valladolid ,28000,France,1,1,Czechoslovakia, ,0,0,FRA,TCH
+1982,Spain,Match for third place,Jose Rico Perez,Alicante ,28000,Poland,3,2,France, ,2,1,POL,FRA
+1982,Spain,Group 4,Jose Zorrilla,Valladolid ,30043,France,4,1,Kuwait, ,2,0,FRA,KUW
+1982,Spain,Group 3,Jose Rico Perez,Alicante ,32093,Argentina,4,1,Hungary, ,2,0,ARG,HUN
+1982,Spain,Group 3,Jose Rico Perez,Alicante ,32500,Argentina,2,0,El Salvador, ,1,0,ARG,SLV
+1982,Spain,Group 1,Estadio Municipal,Vigo ,33000,Italy,0,0,Poland, ,0,0,ITA,POL
+1982,Spain,Group 6,La Rosaleda,Malaga ,36000,Scotland,5,2,New Zealand, ,3,0,SCO,NZL
+1982,Spain,Group 3,Nuevo Estadio,Elche ,37000,Belgium,1,1,Hungary, ,0,1,BEL,HUN
+1982,Spain,Group 4,Vicente Calderon,Madrid ,37000,Austria,0,1,France, ,0,1,AUT,FRA
+1982,Spain,Group 4,Vicente Calderon,Madrid ,37000,France,4,1,Northern Ireland, ,1,0,FRA,NIR
+1982,Spain,Group 4,San Mames,Bilbao ,39700,England,1,0,Kuwait, ,1,0,ENG,KUW
+1982,Spain,Group 2,El Molinon,Gijon ,41000,Germany FR,1,0,Austria, ,1,0,FRG,AUT
+1982,Spain,Group 4,San Mames,Bilbao ,41123,England,2,0,Czechoslovakia, ,0,0,ENG,TCH
+1982,Spain,Group 2,El Molinon,Gijon ,42000,Germany FR,1,2,Algeria, ,0,0,FRG,ALG
+1982,Spain,Group 2,El Molinon,Gijon ,42000,Germany FR,4,1,Chile, ,1,0,FRG,CHI
+1982,Spain,Group 6,Benito Villamarin,Seville ,43000,Brazil,4,0,New Zealand, ,2,0,BRA,NZL
+1982,Spain,Group 3,Sarria,Barcelona ,43000,Italy,2,1,Argentina, ,0,0,ITA,ARG
+1982,Spain,Group 3,Sarria,Barcelona ,44000,Argentina,1,3,Brazil, ,0,1,ARG,BRA
+1982,Spain,Group 3,Sarria,Barcelona ,44000,Italy,3,2,Brazil, ,2,1,ITA,BRA
+1982,Spain,Group 4,San Mames,Bilbao ,44172,England,3,1,France, ,1,1,ENG,FRA
+1982,Spain,Group 6,La Rosaleda,Malaga ,45000,Soviet Union,2,2,Scotland, ,0,1,URS,SCO
+1982,Spain,Group 1,Camp Nou,Barcelona ,45000,Belgium,0,1,Soviet Union, ,0,0,BEL,URS
+1982,Spain,Group 6,Benito Villamarin,Seville ,47379,Brazil,4,1,Scotland, ,1,1,BRA,SCO
+1982,Spain,Group 5,Luis Casanova,Valencia ,48000,Spain,2,1,Yugoslavia, ,1,1,ESP,YUG
+1982,Spain,Group 5,Luis Casanova,Valencia ,49562,Spain,1,1,Honduras, ,0,1,ESP,HON
+1982,Spain,Group 5,Luis Casanova,Valencia ,49562,Northern Ireland,1,0,Spain, ,0,0,NIR,ESP
+1982,Spain,Semi-finals,Camp Nou,Barcelona ,50000,Poland,0,2,Italy, ,0,1,POL,ITA
+1982,Spain,Group 1,Camp Nou,Barcelona ,65000,Poland,3,0,Belgium, ,2,0,POL,BEL
+1982,Spain,Group 1,Camp Nou,Barcelona ,65000,Poland,0,0,Soviet Union, ,0,0,POL,URS
+1982,Spain,Group 6,Ramon Sanchez Pizjuan,Seville ,68000,Brazil,2,1,Soviet Union, ,0,1,BRA,URS
+1982,Spain,Semi-finals,Ramon Sanchez Pizjuan,Seville ,70000,Germany FR,3,3,France,ET,0,0,FRG,FRA
+1982,Spain,Group 2,Santiago Bernabeu,Madrid ,75000,Germany FR,0,0,England, ,0,0,FRG,ENG
+1982,Spain,Group 2,Santiago Bernabeu,Madrid ,75000,Spain,0,0,England, ,0,0,ESP,ENG
+1982,Spain,Final,Santiago Bernabeu,Madrid ,90000,Italy,3,1,Germany FR, ,0,0,ITA,FRG
+1982,Spain,Group 2,Santiago Bernabeu,Madrid ,90089,Germany FR,2,1,Spain, ,0,0,FRG,ESP
+1982,Spain,Group 3,Camp Nou,Barcelona ,95000,Argentina,0,1,Belgium, ,0,0,ARG,BEL
+1986,Mexico,Group C,Estadio Irapuato,Irapuato ,13800,Hungary,2,0,Canada, ,1,0,HUN,CAN
+1986,Mexico,Group C,Estadio Irapuato,Irapuato ,14200,Soviet Union,2,0,Canada, ,0,0,URS,CAN
+1986,Mexico,Group B,Bombonera - Estadio Nemesio Diez,Toluca ,16000,Paraguay,2,2,Belgium, ,0,1,PAR,BEL
+1986,Mexico,Group C,Estadio Irapuato,Irapuato ,16500,Soviet Union,6,0,Hungary, ,3,0,URS,HUN
+1986,Mexico,Group E,Neza,Nezahualcoyotl ,18000,Scotland,0,1,Denmark, ,0,0,SCO,DEN
+1986,Mexico,Round of 16,Estadio Universitario,Monterrey ,19800,Morocco,0,1,Germany FR, ,0,0,MAR,FRG
+1986,Mexico,Group F,Estadio Universitario,Monterrey ,19900,Morocco,0,0,Poland, ,0,0,MAR,POL
+1986,Mexico,Group F,Estadio Universitario,Monterrey ,19915,Poland,1,0,Portugal, ,0,0,POL,POR
+1986,Mexico,Group B,Bombonera - Estadio Nemesio Diez,Toluca ,20000,Iraq,1,2,Belgium, ,0,2,IRQ,BEL
+1986,Mexico,Group A,Cuauhtemoc,Puebla ,20000,Korea Republic,2,3,Italy, ,0,1,KOR,ITA
+1986,Mexico,Group E,Neza,Nezahualcoyotl ,20000,Scotland,0,0,Uruguay, ,0,0,SCO,URU
+1986,Mexico,Group F,Tecnologico,Monterrey ,20200,England,0,0,Morocco, ,0,0,ENG,MAR
+1986,Mexico,Match for third place,Cuauhtemoc,Puebla ,21000,France,4,2,Belgium,HWP,0,0,FRA,BEL
+1986,Mexico,Group D,Tres de Marzo,Guadalajara ,22000,Algeria,1,1,Northern Ireland, ,0,1,ALG,NIR
+1986,Mexico,Group F,Tecnologico,Monterrey ,22700,England,3,0,Poland, ,3,0,ENG,POL
+1986,Mexico,Group F,Tecnologico,Monterrey ,23000,Portugal,1,0,England, ,0,0,POR,ENG
+1986,Mexico,Group D,Tecnologico,Monterrey ,23980,Algeria,0,3,Spain, ,0,1,ALG,ESP
+1986,Mexico,Group B,Bombonera - Estadio Nemesio Diez,Toluca ,24000,Paraguay,1,0,Iraq, ,1,0,PAR,IRQ
+1986,Mexico,Round of 16,Cuauhtemoc,Puebla ,26000,Argentina,1,0,Uruguay, ,1,0,ARG,URU
+1986,Mexico,Group E,Neza,Nezahualcoyotl ,26500,Denmark,6,1,Uruguay, ,2,1,DEN,URU
+1986,Mexico,Group D,Tres de Marzo,Guadalajara ,28000,Northern Ireland,1,2,Spain, ,0,2,NIR,ESP
+1986,Mexico,Group F,Tres de Marzo,Guadalajara ,28000,Portugal,1,3,Morocco, ,0,2,POR,MAR
+1986,Mexico,Group E,Estadio Corregidora,Queretaro ,30000,Germany FR,2,1,Scotland, ,1,1,FRG,SCO
+1986,Mexico,Group E,Estadio Corregidora,Queretaro ,30500,Uruguay,1,1,Germany FR, ,1,0,URU,FRG
+1986,Mexico,Group C,Nou Camp - Estadio Le,Leon ,31420,Hungary,0,3,France, ,0,1,HUN,FRA
+1986,Mexico,Group A,Cuauhtemoc,Puebla ,32000,Italy,1,1,Argentina, ,1,1,ITA,ARG
+1986,Mexico,Round of 16,Nou Camp - Estadio Leon,Leon ,32277,Soviet Union,3,4,Belgium,ET,0,0,URS,BEL
+1986,Mexico,Group D,Jalisco,Guadalajara ,35748,Spain,0,1,Brazil, ,0,0,ESP,BRA
+1986,Mexico,Group E,Estadio Corregidora,Queretaro ,36000,Denmark,2,0,Germany FR, ,1,0,DEN,FRG
+1986,Mexico,Group C,Nou Camp - Estadio Le,Leon ,36540,France,1,1,Soviet Union, ,0,0,FRA,URS
+1986,Mexico,Round of 16,Estadio Corregidora,Queretaro ,38500,Denmark,1,5,Spain, ,1,1,DEN,ESP
+1986,Mexico,Quarter-finals,Estadio Universitario,Monterrey ,41700,Germany FR,0,0,Mexico,HWP,0,0,FRG,MEX
+1986,Mexico,Group A,Estadio Olympico Universitario,Mexico City ,45000,Korea Republic,1,1,Bulgaria, ,0,1,KOR,BUL
+1986,Mexico,Round of 16,Jalisco,Guadalajara ,45000,Brazil,4,0,Poland, ,1,0,BRA,POL
+1986,Mexico,Quarter-finals,Cuauhtemoc,Puebla ,45000,Spain,1,1,Belgium,AWP,0,0,ESP,BEL
+1986,Mexico,Semi-finals,Jalisco,Guadalajara ,45000,France,0,2,Germany FR, ,0,1,FRA,FRG
+1986,Mexico,Group D,Jalisco,Guadalajara ,48000,Brazil,1,0,Algeria, ,0,0,BRA,ALG
+1986,Mexico,Group D,Jalisco,Guadalajara ,51000,Northern Ireland,0,3,Brazil, ,0,2,NIR,BRA
+1986,Mexico,Group A,Estadio Universitario,Mexico City ,60000,Argentina,3,1,Korea Republic, ,2,0,ARG,KOR
+1986,Mexico,Group A,Estadio Universitario,Mexico City ,65000,Argentina,2,0,Bulgaria, ,1,0,ARG,BUL
+1986,Mexico,Quarter-finals,Jalisco,Guadalajara ,65000,Brazil,1,1,France,AWP,0,0,BRA,FRA
+1986,Mexico,Group C,Nou Camp - Estadio Le,Leon ,65500,Canada,0,1,France, ,0,0,CAN,FRA
+1986,Mexico,Round of 16,Estadio Universitario,Mexico City ,70000,Italy,0,2,France, ,0,1,ITA,FRA
+1986,Mexico,Group A,Estadio Azteca,Mexico City ,96000,Bulgaria,1,1,Italy, ,0,1,BUL,ITA
+1986,Mexico,Round of 16,Estadio Azteca,Mexico City ,98728,England,3,0,Paraguay, ,1,0,ENG,PAR
+1986,Mexico,Group B,Estadio Azteca,Mexico City ,103763,Iraq,0,1,Mexico, ,0,0,IRQ,MEX
+1986,Mexico,Group B,Estadio Azteca,Mexico City ,110000,Belgium,1,2,Mexico, ,1,2,BEL,MEX
+1986,Mexico,Semi-finals,Estadio Azteca,Mexico City ,114500,Argentina,2,0,Belgium, ,0,0,ARG,BEL
+1986,Mexico,Round of 16,Estadio Azteca,Mexico City ,114580,Mexico,2,0,Bulgaria, ,1,0,MEX,BUL
+1986,Mexico,Quarter-finals,Estadio Azteca,Mexico City ,114580,Argentina,2,1,England, ,0,0,ARG,ENG
+1986,Mexico,Group B,Estadio Azteca,Mexico City ,114600,Mexico,1,1,Paraguay, ,1,0,MEX,PAR
+1986,Mexico,Final,Estadio Azteca,Mexico City ,114600,Argentina,3,2,Germany FR, ,1,0,ARG,FRG
+1990,Italy,Group D,Renato Dall Ara,Bologna ,27833,Yugoslavia,4,1,United Arab Emirates, ,2,1,YUG,UAE
+1990,Italy,Group E,Friuli,Udine ,29039,Korea Republic,0,1,Uruguay, ,0,0,KOR,URU
+1990,Italy,Group C,Luigi Ferraris,Genoa ,30223,Sweden,1,2,Costa Rica, ,1,0,SWE,CRC
+1990,Italy,Group D,Renato Dall Ara,Bologna ,30791,United Arab Emirates,0,2,Colombia, ,0,0,UAE,COL
+1990,Italy,Group C,Luigi Ferraris,Genoa ,30867,Costa Rica,1,0,Scotland, ,0,0,CRC,SCO
+1990,Italy,Round of 16,Luigi Ferraris,Genoa ,31818,Republic of Ireland,0,0,Romania,HWP,0,0,IRL,ROU
+1990,Italy,Group C,Luigi Ferraris,Genoa ,31823,Sweden,1,2,Scotland, ,0,1,SWE,SCO
+1990,Italy,Group D,Renato Dall Ara,Bologna ,32257,Yugoslavia,1,0,Colombia, ,0,0,YUG,COL
+1990,Italy,Group E,Dacia Arena,Udine ,32733,Korea Republic,1,3,Spain, ,1,1,KOR,ESP
+1990,Italy,Group E,Marc Antonio Bentegodi,Verona ,32790,Belgium,2,0,Korea Republic, ,0,0,BEL,KOR
+1990,Italy,Group A,Comunale,Florence ,33266,USA,1,5,Czechoslovakia, ,0,2,USA,TCH
+1990,Italy,Group F,Della Favorita,Palermo ,33288,Netherlands,1,1,Egypt, ,0,0,NED,EGY
+1990,Italy,Group F,Della Favorita,Palermo ,33288,Republic of Ireland,0,0,Egypt, ,0,0,IRL,EGY
+1990,Italy,Group F,Della Favorita,Palermo ,33288,Republic of Ireland,1,1,Netherlands, ,0,1,IRL,NED
+1990,Italy,Group E,Marc Antonio Bentegodi,Verona ,33759,Belgium,3,1,Uruguay, ,2,0,BEL,URU
+1990,Italy,Round of 16,Renato Dall Ara,Bologna ,34520,England,1,0,Belgium,ET,0,0,ENG,BEL
+1990,Italy,Group A,Comunale,Florence ,34857,Austria,2,1,USA, ,0,0,AUT,USA
+1990,Italy,Group F,Sant Elia,Cagliari ,34959,England,1,0,Egypt, ,0,0,ENG,EGY
+1990,Italy,Group F,Sant Elia,Cagliari ,35238,England,1,1,Republic of Ireland, ,1,0,ENG,IRL
+1990,Italy,Group F,Sant Elia,Cagliari ,35267,England,0,0,Netherlands, ,0,0,ENG,NED
+1990,Italy,Round of 16,Marc Antonio Bentegodi,Verona ,35500,Spain,1,2,Yugoslavia,AWP,0,0,ESP,YUG
+1990,Italy,Group E,Dacia Arena,Udine ,35713,Uruguay,0,0,Spain, ,0,0,URU,ESP
+1990,Italy,Group E,Marc Antonio Bentegodi,Verona ,35950,Belgium,1,2,Spain, ,1,2,BEL,ESP
+1990,Italy,Group B,Stadio San Nicola,Bari ,37307,Cameroon,0,4,Soviet Union, ,0,2,CMR,URS
+1990,Italy,Group B,Stadio San Nicola,Bari ,38687,Cameroon,2,1,Romania, ,0,0,CMR,ROU
+1990,Italy,Group A,Comunale,Florence ,38962,Austria,0,1,Czechoslovakia, ,0,1,AUT,TCH
+1990,Italy,Quarter-finals,Comunale,Florence ,38971,Yugoslavia,0,0,Argentina,AWP,0,0,YUG,ARG
+1990,Italy,Group B,Stadio San Nicola,Bari ,42907,Soviet Union,0,2,Romania, ,0,1,URS,ROU
+1990,Italy,Round of 16,Stadio San Nicola,Bari ,47673,Czechoslovakia,4,1,Costa Rica, ,1,0,TCH,CRC
+1990,Italy,Round of 16,San Paolo,Naples ,50026,Cameroon,2,1,Colombia,HWP,0,0,CMR,COL
+1990,Italy,Match for third place,Stadio San Nicola,Bari ,51426,Italy,2,1,England, ,0,0,ITA,ENG
+1990,Italy,Group B,San Paolo,Naples ,52733,Argentina,1,1,Romania, ,0,0,ARG,ROU
+1990,Italy,Quarter-finals,San Paolo,Naples ,55205,England,3,2,Cameroon,ET,0,0,ENG,CMR
+1990,Italy,Group B,San Paolo,Naples ,55759,Argentina,2,0,Soviet Union, ,1,0,ARG,URS
+1990,Italy,Group C,Stadio delle Alpi,Turin ,58007,Brazil,1,0,Costa Rica, ,1,0,BRA,CRC
+1990,Italy,Semi-finals,San Paolo,Naples ,59978,Italy,1,1,Argentina,AWP,0,0,ITA,ARG
+1990,Italy,Round of 16,Stadio delle Alpi,Turin ,61381,Brazil,0,1,Argentina, ,0,0,BRA,ARG
+1990,Italy,Group C,Stadio delle Alpi,Turin ,62502,Brazil,1,0,Scotland, ,0,0,BRA,SCO
+1990,Italy,Group C,Stadio delle Alpi,Turin ,62628,Brazil,2,1,Sweden, ,1,0,BRA,SWE
+1990,Italy,Semi-finals,Stadio delle Alpi,Turin ,62628,Germany FR,1,1,England,HWP,0,0,FRG,ENG
+1990,Italy,Group D,Giuseppe Meazza,Milan ,71169,Germany FR,5,1,United Arab Emirates, ,2,0,FRG,UAE
+1990,Italy,Group D,Giuseppe Meazza,Milan ,72510,Germany FR,1,1,Colombia, ,0,0,FRG,COL
+1990,Italy,Group A,Stadio Olimpico,Rome ,73303,Italy,1,0,Austria, ,0,0,ITA,AUT
+1990,Italy,Group A,Stadio Olimpico,Rome ,73303,Italy,2,0,Czechoslovakia, ,1,0,ITA,TCH
+1990,Italy,Round of 16,Stadio Olimpico,Rome ,73303,Italy,2,0,Uruguay, ,0,0,ITA,URU
+1990,Italy,Quarter-finals,Stadio Olimpico,Rome ,73303,Italy,1,0,Republic of Ireland, ,1,0,ITA,IRL
+1990,Italy,Quarter-finals,Giuseppe Meazza,Milan ,73347,Germany FR,1,0,Czechoslovakia, ,1,0,FRG,TCH
+1990,Italy,Group A,Stadio Olimpico,Rome ,73423,Italy,1,0,USA, ,1,0,ITA,USA
+1990,Italy,Final,Stadio Olimpico,Rome ,73603,Germany FR,1,0,Argentina, ,0,0,FRG,ARG
+1990,Italy,Group B,Giuseppe Meazza,Milan ,73780,Argentina,0,1,Cameroon, ,0,0,ARG,CMR
+1990,Italy,Round of 16,Giuseppe Meazza,Milan ,74559,Germany FR,2,1,Netherlands, ,0,0,FRG,NED
+1990,Italy,Group D,Giuseppe Meazza,Milan ,74765,Germany FR,4,1,Yugoslavia, ,2,0,FRG,YUG
+1994,USA,Group D,Cotton Bowl,Dallas ,44132,Nigeria,3,0,Bulgaria, ,2,0,NGA,BUL
+1994,USA,Group F,RFK Stadium,Washington Dc ,50535,Netherlands,2,1,Saudi Arabia, ,0,1,NED,KSA
+1994,USA,Group E,RFK Stadium,Washington Dc ,52395,Norway,1,0,Mexico, ,0,0,NOR,MEX
+1994,USA,Group E,RFK Stadium,Washington Dc ,52535,Italy,1,1,Mexico, ,0,0,ITA,MEX
+1994,USA,Group F,RFK Stadium,Washington Dc ,52959,Belgium,0,1,Saudi Arabia, ,0,1,BEL,KSA
+1994,USA,Group D,Foxboro Stadium,Boston ,53001,Greece,0,2,Nigeria, ,0,1,GRE,NGA
+1994,USA,Round of 16,RFK Stadium,Washington Dc ,53121,Spain,3,0,Switzerland, ,1,0,ESP,SUI
+1994,USA,Quarter-finals,Foxboro Stadium,Boston ,53400,Italy,2,1,Spain, ,1,0,ITA,ESP
+1994,USA,Round of 16,Foxboro Stadium,Boston ,54367,Nigeria,1,2,Italy,ET,0,0,NGA,ITA
+1994,USA,Group C,Foxboro Stadium,Boston ,54453,Korea Republic,0,0,Bolivia, ,0,0,KOR,BOL
+1994,USA,Group D,Foxboro Stadium,Boston ,54453,Argentina,2,1,Nigeria, ,2,1,ARG,NGA
+1994,USA,Group D,Foxboro Stadium,Boston ,54456,Argentina,4,0,Greece, ,2,0,ARG,GRE
+1994,USA,Group C,Cotton Bowl,Dallas ,56247,Spain,2,2,Korea Republic, ,0,0,ESP,KOR
+1994,USA,Round of 16,Soldier Field,Chicago ,60246,Germany,3,2,Belgium, ,3,1,GER,BEL
+1994,USA,Round of 16,Cotton Bowl,Dallas ,60277,Saudi Arabia,1,3,Sweden, ,0,1,KSA,SWE
+1994,USA,Group F,Citrus Bowl,Orlando ,60578,Morocco,1,2,Netherlands, ,0,1,MAR,NED
+1994,USA,Group E,Citrus Bowl,Orlando ,60790,Mexico,2,1,Republic of Ireland, ,1,0,MEX,IRL
+1994,USA,Group F,Citrus Bowl,Orlando ,61219,Belgium,1,0,Morocco, ,1,0,BEL,MAR
+1994,USA,Round of 16,Citrus Bowl,Orlando ,61355,Netherlands,2,0,Republic of Ireland, ,2,0,NED,IRL
+1994,USA,Group A,Pontiac Silverdome,Detroit ,61428,Romania,1,4,Switzerland, ,1,1,ROU,SUI
+1994,USA,Group F,Citrus Bowl,Orlando ,62387,Belgium,1,0,Netherlands, ,0,0,BEL,NED
+1994,USA,Group C,Soldier Field,Chicago ,63089,Bolivia,1,3,Spain, ,0,1,BOL,ESP
+1994,USA,Group C,Soldier Field,Chicago ,63113,Germany,1,1,Spain, ,0,1,GER,ESP
+1994,USA,Group C,Soldier Field,Chicago ,63117,Germany,1,0,Bolivia, ,0,0,GER,BOL
+1994,USA,Group D,Soldier Field,Chicago ,63160,Bulgaria,4,0,Greece, ,1,0,BUL,GRE
+1994,USA,Quarter-finals,Cotton Bowl,Dallas ,63500,Netherlands,2,3,Brazil, ,0,0,NED,BRA
+1994,USA,Group C,Cotton Bowl,Dallas ,63998,Germany,3,2,Korea Republic, ,3,0,GER,KOR
+1994,USA,Group D,Cotton Bowl,Dallas ,63998,Argentina,0,2,Bulgaria, ,0,0,ARG,BUL
+1994,USA,Round of 16,Giants Stadium,New York/New Jersey ,71030,Mexico,1,1,Bulgaria,AWP,0,0,MEX,BUL
+1994,USA,Group B,Pontiac Silverdome,Detroit ,71528,Sweden,3,1,Russia, ,1,1,SWE,RUS
+1994,USA,Quarter-finals,Giants Stadium,New York/New Jersey ,72000,Bulgaria,2,1,Germany, ,0,0,BUL,GER
+1994,USA,Group E,Giants Stadium,New York/New Jersey ,72404,Republic of Ireland,0,0,Norway, ,0,0,IRL,NOR
+1994,USA,Group A,Pontiac Silverdome,Detroit ,73425,USA,1,1,Switzerland, ,1,1,USA,SUI
+1994,USA,Semi-finals,Giants Stadium,New York/New Jersey ,74110,Bulgaria,1,2,Italy, ,1,2,BUL,ITA
+1994,USA,Group E,Giants Stadium,New York/New Jersey ,74624,Italy,1,0,Norway, ,0,0,ITA,NOR
+1994,USA,Group B,Stanford Stadium,San Francisco ,74914,Russia,6,1,Cameroon, ,3,0,RUS,CMR
+1994,USA,Group E,Giants Stadium,New York/New Jersey ,75338,Italy,0,1,Republic of Ireland, ,0,1,ITA,IRL
+1994,USA,Group F,Giants Stadium,New York/New Jersey ,76322,Saudi Arabia,2,1,Morocco, ,2,1,KSA,MAR
+1994,USA,Group B,Pontiac Silverdome,Detroit ,77217,Brazil,1,1,Sweden, ,0,1,BRA,SWE
+1994,USA,Group B,Stanford Stadium,San Francisco ,81061,Brazil,2,0,Russia, ,1,0,BRA,RUS
+1994,USA,Group B,Stanford Stadium,San Francisco ,83401,Brazil,3,0,Cameroon, ,1,0,BRA,CMR
+1994,USA,Group A,Stanford Stadium,San Francisco ,83401,Switzerland,0,2,Colombia, ,0,1,SUI,COL
+1994,USA,Quarter-finals,Stanford Stadium,San Francisco ,83500,Romania,2,2,Sweden,AWP,0,0,ROU,SWE
+1994,USA,Round of 16,Stanford Stadium,San Francisco ,84147,Brazil,1,0,USA, ,0,0,BRA,USA
+1994,USA,Round of 16,Rose Bowl,Los Angeles ,90469,Romania,3,2,Argentina, ,2,1,ROU,ARG
+1994,USA,Match for third place,Rose Bowl,Los Angeles ,91500,Sweden,4,0,Bulgaria, ,4,0,SWE,BUL
+1994,USA,Group A,Rose Bowl,Los Angeles ,91856,Colombia,1,3,Romania, ,1,2,COL,ROU
+1994,USA,Semi-finals,Rose Bowl,Los Angeles ,91856,Sweden,0,1,Brazil, ,0,0,SWE,BRA
+1994,USA,Group B,Rose Bowl,Los Angeles ,93194,Cameroon,2,2,Sweden, ,1,1,CMR,SWE
+1994,USA,Group A,Rose Bowl,Los Angeles ,93869,USA,2,1,Colombia, ,1,0,USA,COL
+1994,USA,Group A,Rose Bowl,Los Angeles ,93869,USA,0,1,Romania, ,0,1,USA,ROU
+1994,USA,Final,Rose Bowl,Los Angeles ,94194,Brazil,0,0,Italy,HWP,0,0,BRA,ITA
+1998,France,Group A,La Mosson,Montpellier ,29800,Morocco,2,2,Norway, ,1,1,MAR,NOR
+1998,France,Group D,La Mosson,Montpellier ,29800,Paraguay,0,0,Bulgaria, ,0,0,PAR,BUL
+1998,France,Group B,La Mosson,Montpellier ,29800,Italy,3,0,Cameroon, ,1,0,ITA,CMR
+1998,France,Group G,La Mosson,Montpellier ,29800,Colombia,1,0,Tunisia, ,0,0,COL,TUN
+1998,France,Group F,La Mosson,Montpellier ,29800,Germany,2,0,Iran, ,0,0,GER,IRN
+1998,France,Round of 16,La Mosson,Montpellier ,29800,Germany,2,1,Mexico, ,0,0,GER,MEX
+1998,France,Group F,Stade Geoffroy Guichard,Saint-Etienne ,30600,Yugoslavia,1,0,Iran, ,0,0,YUG,IRN
+1998,France,Group B,Stade Geoffroy Guichard,Saint-Etienne ,30600,Chile,1,1,Austria, ,0,0,CHI,AUT
+1998,France,Group D,Stade Geoffroy Guichard,Saint-Etienne ,30600,Spain,0,0,Paraguay, ,0,0,ESP,PAR
+1998,France,Group A,Stade Geoffroy Guichard,Saint-Etienne ,30600,Scotland,0,3,Morocco, ,0,1,SCO,MAR
+1998,France,Group E,Stade Geoffroy Guichard,Saint-Etienne ,30600,Netherlands,2,2,Mexico, ,2,0,NED,MEX
+1998,France,Round of 16,Stade Geoffroy Guichard,Saint-Etienne ,30600,Argentina,2,2,England,HWP,0,0,ARG,ENG
+1998,France,Group B,Stade du Parc Lescure,Bordeaux ,31800,Italy,2,2,Chile, ,1,1,ITA,CHI
+1998,France,Group A,Stade du Parc Lescure,Bordeaux ,31800,Scotland,1,1,Norway, ,0,0,SCO,NOR
+1998,France,Group E,Stade du Parc Lescure,Bordeaux ,31800,Belgium,2,2,Mexico, ,1,0,BEL,MEX
+1998,France,Group C,Stade du Parc Lescure,Bordeaux ,31800,South Africa,2,2,Saudi Arabia, ,1,1,RSA,KSA
+1998,France,Group H,Stade du Parc Lescure,Bordeaux ,31800,Argentina,1,0,Croatia, ,1,0,ARG,CRO
+1998,France,Round of 16,Stade Felix Bollaert,Lens ,31800,France,1,0,Paraguay,ET,0,0,FRA,PAR
+1998,France,Round of 16,Stade du Parc Lescure,Bordeaux ,31800,Romania,0,1,Croatia, ,0,1,ROU,CRO
+1998,France,Group B,Stade Municipal,Toulouse ,33500,Cameroon,1,1,Austria, ,0,0,CMR,AUT
+1998,France,Group H,Stade Municipal,Toulouse ,33500,Argentina,1,0,Japan, ,1,0,ARG,JPN
+1998,France,Group C,Stade Municipal,Toulouse ,33500,South Africa,1,1,Denmark, ,0,1,RSA,DEN
+1998,France,Group G,Stade Municipal,Toulouse ,33500,Romania,2,1,England, ,0,0,ROU,ENG
+1998,France,Group D,Stade Municipal,Toulouse ,33500,Nigeria,1,3,Paraguay, ,1,1,NGA,PAR
+1998,France,Round of 16,Stade Municipal,Toulouse ,33500,Netherlands,2,1,Yugoslavia, ,1,0,NED,YUG
+1998,France,Group D,La Beaujoire,Nantes ,35500,Spain,2,3,Nigeria, ,1,1,ESP,NGA
+1998,France,Group A,La Beaujoire,Nantes ,35500,Brazil,3,0,Morocco, ,2,0,BRA,MAR
+1998,France,Group H,La Beaujoire,Nantes ,35500,Japan,0,1,Croatia, ,0,0,JPN,CRO
+1998,France,Group B,La Beaujoire,Nantes ,35500,Chile,1,1,Cameroon, ,1,0,CHI,CMR
+1998,France,Group F,La Beaujoire,Nantes ,35500,USA,0,1,Yugoslavia, ,0,1,USA,YUG
+1998,France,Quarter-finals,La Beaujoire,Nantes ,35500,Brazil,3,2,Denmark, ,2,1,BRA,DEN
+1998,France,Group C,Stade Felix Bollaert,Lens ,38100,Saudi Arabia,0,1,Denmark, ,0,0,KSA,DEN
+1998,France,Group H,Stade Felix Bollaert,Lens ,38100,Jamaica,1,3,Croatia, ,1,1,JAM,CRO
+1998,France,Group F,Stade Felix Bollaert,Lens ,38100,Germany,2,2,Yugoslavia, ,0,1,GER,YUG
+1998,France,Group D,Stade Felix Bollaert,Lens ,38100,Spain,6,1,Bulgaria, ,2,0,ESP,BUL
+1998,France,Group G,Stade Felix Bollaert,Lens ,38100,Colombia,0,2,England, ,0,2,COL,ENG
+1998,France,Group E,Stade de Gerland,Lyon ,39100,Korea Republic,1,3,Mexico, ,1,0,KOR,MEX
+1998,France,Group G,Stade de Gerland,Lyon ,39100,Romania,1,0,Colombia, ,1,0,ROU,COL
+1998,France,Group F,Stade de Gerland,Lyon ,39100,USA,1,2,Iran, ,0,1,USA,IRN
+1998,France,Group C,Stade de Gerland,Lyon ,39100,France,2,1,Denmark, ,1,1,FRA,DEN
+1998,France,Group H,Stade de Gerland,Lyon ,39100,Japan,1,2,Jamaica, ,0,1,JPN,JAM
+1998,France,Quarter-finals,Stade de Gerland,Lyon ,39100,Germany,0,3,Croatia, ,0,1,GER,CRO
+1998,France,Group F,Parc des Princes,Paris ,45500,Germany,2,0,USA, ,1,0,GER,USA
+1998,France,Group D,Parc des Princes,Paris ,45500,Nigeria,1,0,Bulgaria, ,1,0,NGA,BUL
+1998,France,Group H,Parc des Princes,Paris ,45500,Argentina,5,0,Jamaica, ,1,0,ARG,JAM
+1998,France,Group E,Parc des Princes,Paris ,45500,Belgium,1,1,Korea Republic, ,1,0,BEL,KOR
+1998,France,Round of 16,Parc des Princes,Paris ,45500,Brazil,4,1,Chile, ,3,0,BRA,CHI
+1998,France,Match for third place,Parc des Princes,Paris ,45500,Netherlands,1,2,Croatia, ,1,2,NED,CRO
+1998,France,Semi-finals,Stade Vlodrome,Marseilles ,54000,Brazil,1,1,Netherlands,HWP,0,0,BRA,NED
+1998,France,Group C,Stade V�lodrome,Marseilles ,55000,France,3,0,South Africa, ,1,0,FRA,RSA
+1998,France,Group G,Stade V�lodrome,Marseilles ,55000,England,2,0,Tunisia, ,1,0,ENG,TUN
+1998,France,Group E,Stade Vlodrome,Marseilles ,55000,Netherlands,5,0,Korea Republic, ,2,0,NED,KOR
+1998,France,Group A,Stade Vlodrome,Marseilles ,55000,Brazil,1,2,Norway, ,0,0,BRA,NOR
+1998,France,Round of 16,Stade Vlodrome,Marseilles ,55000,Italy,1,0,Norway, ,1,0,ITA,NOR
+1998,France,Quarter-finals,Stade Vlodrome,Marseilles ,55000,Netherlands,2,1,Argentina, ,1,1,NED,ARG
+1998,France,Semi-finals,Stade de France,Saint-Denis ,76000,France,2,1,Croatia, ,0,0,FRA,CRO
+1998,France,Group E,Stade de France,Saint-Denis ,77000,Netherlands,0,0,Belgium, ,0,0,NED,BEL
+1998,France,Group G,Stade de France,Saint-Denis ,77000,Romania,1,1,Tunisia, ,0,1,ROU,TUN
+1998,France,Round of 16,Stade de France,Saint-Denis ,77000,Nigeria,1,4,Denmark, ,0,2,NGA,DEN
+1998,France,Quarter-finals,Stade de France,Saint-Denis ,77000,Italy,0,0,France,AWP,0,0,ITA,FRA
+1998,France,Group A,Stade de France,Saint-Denis ,80000,Brazil,2,1,Scotland, ,1,1,BRA,SCO
+1998,France,Group C,Stade de France,Saint-Denis ,80000,France,4,0,Saudi Arabia, ,1,0,FRA,KSA
+1998,France,Group B,Stade de France,Saint-Denis ,80000,Italy,2,1,Austria, ,0,0,ITA,AUT
+1998,France,Final,Stade de France,Saint-Denis ,80000,Brazil,0,3,France, ,0,2,BRA,FRA
+2002,South Korea/Japan,Group B,Jeonju World Cup Stadium,Jeonju ,24000,Spain,3,1,Paraguay, ,0,1,ESP,PAR
+2002,South Korea/Japan,Round of 16,Jeju World Cup Stadium,Jeju ,25176,Germany,1,0,Paraguay, ,0,0,GER,PAR
+2002,South Korea/Japan,Group B,Busan Asiad Main Stadium,Busan ,25186,Paraguay,2,2,South Africa, ,1,0,PAR,RSA
+2002,South Korea/Japan,Group D,Daejeon World Cup Stadium,Daejeon ,26482,Poland,3,1,USA, ,2,0,POL,USA
+2002,South Korea/Japan,Group C,Gwangju World Cup Stadium,Gwangju ,27217,China PR,0,2,Costa Rica, ,0,0,CHN,CRC
+2002,South Korea/Japan,Group B,Gwangju World Cup Stadium,Gwangju ,28598,Spain,3,1,Slovenia, ,1,0,ESP,SVN
+2002,South Korea/Japan,Group A,Munsu Football Stadium,Ulsan ,30157,Uruguay,1,2,Denmark, ,0,1,URU,DEN
+2002,South Korea/Japan,Group B,Jeju World Cup Stadium,Jeju ,30176,Slovenia,1,3,Paraguay, ,1,0,SVN,PAR
+2002,South Korea/Japan,Group H,Kobe Wing Stadium,Kobe ,30957,Russia,2,0,Tunisia, ,0,0,RUS,TUN
+2002,South Korea/Japan,Group D,Jeonju World Cup Stadium,Jeonju ,31000,Portugal,4,0,Poland, ,1,0,POR,POL
+2002,South Korea/Japan,Group B,Daejeon World Cup Stadium,Daejeon ,31024,South Africa,2,3,Spain, ,1,2,RSA,ESP
+2002,South Korea/Japan,Group G,Sapporo Dome,Sapporo ,31081,Italy,2,0,Ecuador, ,2,0,ITA,ECU
+2002,South Korea/Japan,Group E,Sapporo Dome,Sapporo ,32218,Germany,8,0,Saudi Arabia, ,4,0,GER,KSA
+2002,South Korea/Japan,Group G,Niigata Stadium Big Swan,Niigata ,32239,Croatia,0,1,Mexico, ,0,0,CRO,MEX
+2002,South Korea/Japan,Group E,Niigata Stadium Big Swan,Niigata ,33679,Republic of Ireland,1,1,Cameroon, ,0,1,IRL,CMR
+2002,South Korea/Japan,Group A,Suwon World Cup Stadium,Suwon ,33681,Senegal,3,3,Uruguay, ,3,0,SEN,URU
+2002,South Korea/Japan,Group C,Munsu Football Stadium,Ulsan ,33842,Brazil,2,1,Turkey, ,0,1,BRA,TUR
+2002,South Korea/Japan,Group F,Kashima Stadium,Ibaraki ,34050,Argentina,1,0,Nigeria, ,0,0,ARG,NGA
+2002,South Korea/Japan,Group E,Kashima Stadium,Ibaraki ,35854,Germany,1,1,Republic of Ireland, ,1,0,GER,IRL
+2002,South Korea/Japan,Group F,Sapporo Dome,Sapporo ,35927,Argentina,0,1,England, ,0,1,ARG,ENG
+2002,South Korea/Japan,Group F,Kobe Wing Stadium,Kobe ,36194,Sweden,2,1,Nigeria, ,1,1,SWE,NGA
+2002,South Korea/Japan,Round of 16,Jeonju World Cup Stadium,Jeonju ,36380,Mexico,0,2,USA, ,0,1,MEX,USA
+2002,South Korea/Japan,Group G,Kashima Stadium,Ibaraki ,36472,Italy,1,2,Croatia, ,0,0,ITA,CRO
+2002,South Korea/Japan,Group C,Jeju World Cup Stadium,Jeju ,36750,Brazil,4,0,China PR, ,3,0,BRA,CHN
+2002,South Korea/Japan,Group D,Suwon World Cup Stadium,Suwon ,37306,USA,3,2,Portugal, ,3,1,USA,POR
+2002,South Korea/Japan,Quarter-finals,Munsu Football Stadium,Ulsan ,37337,Germany,1,0,USA, ,1,0,GER,USA
+2002,South Korea/Japan,Group A,Busan Asiad Main Stadium,Busan ,38289,France,0,0,Uruguay, ,0,0,FRA,URU
+2002,South Korea/Japan,Group C,Suwon World Cup Stadium,Suwon ,38524,Costa Rica,2,5,Brazil, ,1,3,CRC,BRA
+2002,South Korea/Japan,Round of 16,Daejeon World Cup Stadium,Daejeon ,38588,Korea Republic,2,1,Italy,ET,0,0,KOR,ITA
+2002,South Korea/Japan,Round of 16,Suwon World Cup Stadium,Suwon ,38926,Spain,1,1,Republic of Ireland,HWP,0,0,ESP,IRL
+2002,South Korea/Japan,Group G,Oita Stadium Big Eye,Oita ,39291,Mexico,1,1,Italy, ,1,0,MEX,ITA
+2002,South Korea/Japan,Group H,Oita Stadium Big Eye,Oita ,39700,Tunisia,1,1,Belgium, ,1,1,TUN,BEL
+2002,South Korea/Japan,Round of 16,Oita Stadium Big Eye,Oita ,39747,Sweden,1,2,Senegal,ET,0,0,SWE,SEN
+2002,South Korea/Japan,Round of 16,Kobe Wing Stadium,Kobe ,40440,Brazil,2,0,Belgium, ,0,0,BRA,BEL
+2002,South Korea/Japan,Round of 16,Niigata Stadium Big Swan,Niigata ,40582,Denmark,0,3,England, ,0,3,DEN,ENG
+2002,South Korea/Japan,Quarter-finals,Gwangju World Cup Stadium,Gwangju ,42114,Spain,0,0,Korea Republic,AWP,0,0,ESP,KOR
+2002,South Korea/Japan,Group C,Incheon Football Stadium,Incheon ,42299,Costa Rica,1,1,Turkey, ,0,0,CRC,TUR
+2002,South Korea/Japan,Group A,Daegu World Cup Stadium,Daegu ,43500,Denmark,1,1,Senegal, ,1,0,DEN,SEN
+2002,South Korea/Japan,Group C,Seoul World Cup Stadium,Seoul ,43605,Turkey,3,0,China PR, ,2,0,TUR,CHN
+2002,South Korea/Japan,Quarter-finals,Osaka Nagai Stadium,Osaka ,44233,Senegal,0,1,Turkey,ET,0,0,SEN,TUR
+2002,South Korea/Japan,Group F,Osaka Nagai Stadium,Osaka ,44864,Nigeria,0,0,England, ,0,0,NGA,ENG
+2002,South Korea/Japan,Group H,Osaka Nagai Stadium,Osaka ,45213,Tunisia,0,2,Japan, ,0,0,TUN,JPN
+2002,South Korea/Japan,Group G,Miyagi Stadium,Rifu ,45610,Mexico,2,1,Ecuador, ,1,1,MEX,ECU
+2002,South Korea/Japan,Round of 16,Miyagi Stadium,Rifu ,45666,Japan,0,1,Turkey, ,0,1,JPN,TUR
+2002,South Korea/Japan,Group F,Miyagi Stadium,Rifu ,45777,Sweden,1,1,Argentina, ,0,0,SWE,ARG
+2002,South Korea/Japan,Group H,Shizuoka Stadium Ecopa,Shizuoka ,46640,Belgium,3,2,Russia, ,1,0,BEL,RUS
+2002,South Korea/Japan,Group E,Shizuoka Stadium Ecopa,Shizuoka ,47085,Cameroon,0,2,Germany, ,0,0,CMR,GER
+2002,South Korea/Japan,Group B,Daegu World Cup Stadium,Daegu ,47226,South Africa,1,0,Slovenia, ,1,0,RSA,SVN
+2002,South Korea/Japan,Quarter-finals,Shizuoka Stadium Ecopa,Shizuoka ,47436,England,1,2,Brazil, ,1,1,ENG,BRA
+2002,South Korea/Japan,Group A,Incheon Football Stadium,Incheon ,48100,Denmark,2,0,France, ,1,0,DEN,FRA
+2002,South Korea/Japan,Group D,Busan Asiad Main Stadium,Busan ,48760,Korea Republic,2,0,Poland, ,1,0,KOR,POL
+2002,South Korea/Japan,Group D,Incheon Football Stadium,Incheon ,50239,Portugal,0,1,Korea Republic, ,0,0,POR,KOR
+2002,South Korea/Japan,Group E,Saitama Stadium 2002,Saitama ,52328,Cameroon,1,0,Saudi Arabia, ,0,0,CMR,KSA
+2002,South Korea/Japan,Group F,Saitama Stadium 2002,Saitama ,52721,England,1,1,Sweden, ,1,0,ENG,SWE
+2002,South Korea/Japan,Group H,Saitama Stadium 2002,Saitama ,55256,Japan,2,2,Belgium, ,0,0,JPN,BEL
+2002,South Korea/Japan,Group D,Daegu World Cup Stadium,Daegu ,60778,Korea Republic,1,1,USA, ,0,1,KOR,USA
+2002,South Korea/Japan,Semi-finals,Saitama Stadium 2002,Saitama ,61058,Brazil,1,0,Turkey, ,0,0,BRA,TUR
+2002,South Korea/Japan,Group A,Seoul World Cup Stadium,Seoul ,62561,France,0,1,Senegal, ,0,1,FRA,SEN
+2002,South Korea/Japan,Third place,Daegu World Cup Stadium,Daegu ,63483,Korea Republic,2,3,Turkey, ,1,3,KOR,TUR
+2002,South Korea/Japan,Semi-finals,Seoul World Cup Stadium,Seoul ,65256,Germany,1,0,Korea Republic, ,0,0,GER,KOR
+2002,South Korea/Japan,Group E,International Stadium Yokohama,Yokohama ,65320,Saudi Arabia,0,3,Republic of Ireland, ,0,1,KSA,IRL
+2002,South Korea/Japan,Group G,International Stadium Yokohama,Yokohama ,65862,Ecuador,1,0,Croatia, ,0,0,ECU,CRO
+2002,South Korea/Japan,Group H,International Stadium Yokohama,Yokohama ,66108,Japan,1,0,Russia, ,0,0,JPN,RUS
+2002,South Korea/Japan,Final,International Stadium Yokohama,Yokohama ,69029,Germany,0,2,Brazil, ,0,0,GER,BRA
+2006,Germany,Group D,Zentralstadion,Leipzig ,38000,Iran,1,1,Angola, ,0,0,IRN,ANG
+2006,Germany,Group D,Franken-Stadion,Nuremberg ,41000,Mexico,3,1,Iran, ,1,1,MEX,IRN
+2006,Germany,Group B,Franken-Stadion,Nuremberg ,41000,England,2,0,Trinidad and Tobago, ,0,0,ENG,TRI
+2006,Germany,Group F,Franken-Stadion,Nuremberg ,41000,Japan,0,0,Croatia, ,0,0,JPN,CRO
+2006,Germany,Group E,Franken-Stadion,Nuremberg ,41000,Ghana,2,1,USA, ,2,1,GHA,USA
+2006,Germany,Round of 16,Franken-Stadion,Nuremberg ,41000,Portugal,1,0,Netherlands, ,1,0,POR,NED
+2006,Germany,Group C,Zentralstadion,Leipzig ,43000,Serbia and Montenegro,0,1,Netherlands, ,0,1,SCG,NED
+2006,Germany,Group E,FIFA World Cup Stadium Hanover,Hanover ,43000,Italy,2,0,Ghana, ,1,0,ITA,GHA
+2006,Germany,Group H,Zentralstadion,Leipzig ,43000,Spain,4,0,Ukraine, ,2,0,ESP,UKR
+2006,Germany,Group D,FIFA World Cup Stadium Hanover,Hanover ,43000,Mexico,0,0,Angola, ,0,0,MEX,ANG
+2006,Germany,Group G,Zentralstadion,Leipzig ,43000,France,1,1,Korea Republic, ,1,0,FRA,KOR
+2006,Germany,Group A,FIFA World Cup Stadium Hanover,Hanover ,43000,Costa Rica,1,2,Poland, ,1,1,CRC,POL
+2006,Germany,Group G,FIFA World Cup Stadium Hanover,Hanover ,43000,Switzerland,2,0,Korea Republic, ,1,0,SUI,KOR
+2006,Germany,Round of 16,Zentralstadion,Leipzig ,43000,Argentina,2,1,Mexico,ET,0,0,ARG,MEX
+2006,Germany,Round of 16,FIFA World Cup Stadium Hanover,Hanover ,43000,Spain,1,3,France, ,1,1,ESP,FRA
+2006,Germany,Group D,FIFA World Cup Stadium Cologne,Cologne ,45000,Angola,0,1,Portugal, ,0,1,ANG,POR
+2006,Germany,Group E,FIFA World Cup Stadium Cologne,Cologne ,45000,Czech Republic,0,2,Ghana, ,0,1,CZE,GHA
+2006,Germany,Group B,FIFA World Cup Stadium Cologne,Cologne ,45000,Sweden,2,2,England, ,0,1,SWE,ENG
+2006,Germany,Group G,FIFA World Cup Stadium Cologne,Cologne ,45000,Togo,0,2,France, ,0,0,TOG,FRA
+2006,Germany,Round of 16,FIFA World Cup Stadium Cologne,Cologne ,45000,Switzerland,0,0,Ukraine,AWP,0,0,SUI,UKR
+2006,Germany,Group F,Fritz-Walter-Stadion,Kaiserslautern ,46000,Australia,3,1,Japan, ,0,1,AUS,JPN
+2006,Germany,Group E,Fritz-Walter-Stadion,Kaiserslautern ,46000,Italy,1,1,USA, ,1,1,ITA,USA
+2006,Germany,Group B,Fritz-Walter-Stadion,Kaiserslautern ,46000,Paraguay,2,0,Trinidad and Tobago, ,1,0,PAR,TRI
+2006,Germany,Group H,Fritz-Walter-Stadion,Kaiserslautern ,46000,Saudi Arabia,0,1,Spain, ,0,1,KSA,ESP
+2006,Germany,Round of 16,Fritz-Walter-Stadion,Kaiserslautern ,46000,Italy,1,0,Australia, ,0,0,ITA,AUS
+2006,Germany,Group B,FIFA World Cup Stadium Frankfurt,Frankfurt/Main ,48000,England,1,0,Paraguay, ,1,0,ENG,PAR
+2006,Germany,Group G,FIFA World Cup Stadium Frankfurt,Frankfurt/Main ,48000,Korea Republic,2,1,Togo, ,0,1,KOR,TOG
+2006,Germany,Group D,FIFA World Cup Stadium Frankfurt,Frankfurt/Main ,48000,Portugal,2,0,IR Iran, ,0,0,POR,IRN
+2006,Germany,Group C,FIFA World Cup Stadium Frankfurt,Frankfurt/Main ,48000,Netherlands,0,0,Argentina, ,0,0,NED,ARG
+2006,Germany,Quarter-finals,FIFA World Cup Stadium Frankfurt,Frankfurt/Main ,48000,Brazil,0,1,France, ,0,0,BRA,FRA
+2006,Germany,Group C,FIFA World Cup Stadium Hamburg,Hamburg ,49480,Argentina,2,1,Ivory Coast, ,2,0,ARG,CIV
+2006,Germany,Group A,FIFA World Cup Stadium Hamburg,Hamburg ,50000,Ecuador,3,0,Costa Rica, ,1,0,ECU,CRC
+2006,Germany,Group H,FIFA World Cup Stadium Hamburg,Hamburg ,50000,Saudi Arabia,0,4,Ukraine, ,0,2,KSA,UKR
+2006,Germany,Group E,FIFA World Cup Stadium Hamburg,Hamburg ,50000,Czech Republic,0,2,Italy, ,0,1,CZE,ITA
+2006,Germany,Quarter-finals,FIFA World Cup Stadium Hamburg,Hamburg ,50000,Italy,3,0,Ukraine, ,1,0,ITA,UKR
+2006,Germany,Group A,FIFA World Cup Stadium Gelsenkirchen,Gelsenkirchen ,52000,Poland,0,2,Ecuador, ,0,1,POL,ECU
+2006,Germany,Group E,FIFA World Cup Stadium Gelsenkirchen,Gelsenkirchen ,52000,USA,0,3,Czech Republic, ,0,2,USA,CZE
+2006,Germany,Group G,Gottlieb-Daimler-Stadion,Stuttgart ,52000,France,0,0,Switzerland, ,0,0,FRA,SUI
+2006,Germany,Group C,FIFA World Cup Stadium Gelsenkirchen,Gelsenkirchen ,52000,Argentina,6,0,Serbia and Montenegro, ,3,0,ARG,SCG
+2006,Germany,Group C,Gottlieb-Daimler-Stadion,Stuttgart ,52000,Netherlands,2,1,Ivory Coast, ,2,1,NED,CIV
+2006,Germany,Group H,Gottlieb-Daimler-Stadion,Stuttgart ,52000,Spain,3,1,Tunisia, ,0,1,ESP,TUN
+2006,Germany,Group D,FIFA World Cup Stadium Gelsenkirchen,Gelsenkirchen ,52000,Portugal,2,1,Mexico, ,2,1,POR,MEX
+2006,Germany,Group F,Gottlieb-Daimler-Stadion,Stuttgart ,52000,Croatia,2,2,Australia, ,1,1,CRO,AUS
+2006,Germany,Round of 16,Gottlieb-Daimler-Stadion,Stuttgart ,52000,England,1,0,Ecuador, ,0,0,ENG,ECU
+2006,Germany,Quarter-finals,FIFA World Cup Stadium Gelsenkirchen,Gelsenkirchen ,52000,England,0,0,Portugal,AWP,0,0,ENG,POR
+2006,Germany,Third place,Gottlieb-Daimler-Stadion,Stuttgart ,52000,Germany,3,1,Portugal, ,0,0,GER,POR
+2006,Germany,Group B,FIFA World Cup Stadium Dortmund,Dortmund ,62959,Trinidad and Tobago,0,0,Sweden, ,0,0,TRI,SWE
+2006,Germany,Group A,FIFA World Cup Stadium Dortmund,Dortmund ,65000,Germany,1,0,Poland, ,0,0,GER,POL
+2006,Germany,Group G,FIFA World Cup Stadium Dortmund,Dortmund ,65000,Togo,0,2,Switzerland, ,0,1,TOG,SUI
+2006,Germany,Group F,FIFA World Cup Stadium Dortmund,Dortmund ,65000,Japan,1,4,Brazil, ,1,1,JPN,BRA
+2006,Germany,Round of 16,FIFA World Cup Stadium Dortmund,Dortmund ,65000,Brazil,3,0,Ghana, ,2,0,BRA,GHA
+2006,Germany,Semi-finals,FIFA World Cup Stadium Dortmund,Dortmund ,65000,Germany,0,2,Italy,ET,0,0,GER,ITA
+2006,Germany,Group A,FIFA World Cup Stadium Munich,Munich ,66000,Germany,4,2,Costa Rica, ,2,1,GER,CRC
+2006,Germany,Group H,FIFA World Cup Stadium Munich,Munich ,66000,Tunisia,2,2,Saudi Arabia, ,1,0,TUN,KSA
+2006,Germany,Group F,FIFA World Cup Stadium Munich,Munich ,66000,Brazil,2,0,Australia, ,0,0,BRA,AUS
+2006,Germany,Group C,FIFA World Cup Stadium Munich,Munich ,66000,Ivory Coast,3,2,Serbia and Montenegro, ,1,2,CIV,SCG
+2006,Germany,Round of 16,FIFA World Cup Stadium Munich,Munich ,66000,Germany,2,0,Sweden, ,2,0,GER,SWE
+2006,Germany,Semi-finals,FIFA World Cup Stadium Munich,Munich ,66000,Portugal,0,1,France, ,0,1,POR,FRA
+2006,Germany,Final,Olympiastadion,Berlin ,69000,Italy,1,1,France,HWP,0,0,ITA,FRA
+2006,Germany,Group F,Olympiastadion,Berlin ,72000,Brazil,1,0,Croatia, ,1,0,BRA,CRO
+2006,Germany,Group B,Olympiastadion,Berlin ,72000,Sweden,1,0,Paraguay, ,0,0,SWE,PAR
+2006,Germany,Group A,Olympiastadion,Berlin ,72000,Ecuador,0,3,Germany, ,0,2,ECU,GER
+2006,Germany,Group H,Olympiastadion,Berlin ,72000,Ukraine,1,0,Tunisia, ,0,0,UKR,TUN
+2006,Germany,Quarter-finals,Olympiastadion,Berlin ,72000,Germany,1,1,Argentina,HWP,0,0,GER,ARG
+2010,South Africa,Group F,Royal Bafokeng Sports Palace,Phokeng ,23871,New Zealand,1,1,Slovakia, ,0,0,NZL,SVK
+2010,South Africa,Group F,Free State Stadium,Mangaung/Bloemfontein ,26643,Slovakia,0,2,Paraguay, ,0,1,SVK,PAR
+2010,South Africa,Group E,Royal Bafokeng Sports Palace,Phokeng ,27967,Denmark,1,3,Japan, ,0,2,DEN,JPN
+2010,South Africa,Group H,Free State Stadium,Mangaung/Bloemfontein ,28042,Switzerland,0,0,Honduras, ,0,0,SUI,HON
+2010,South Africa,Group C,Peter Mokaba Stadium,Polokwane ,30325,Algeria,0,1,Slovenia, ,0,0,ALG,SVN
+2010,South Africa,Round of 16,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,30597,Uruguay,2,1,Korea Republic, ,1,0,URU,KOR
+2010,South Africa,Group E,Free State Stadium,Mangaung/Bloemfontein ,30620,Japan,1,0,Cameroon, ,1,0,JPN,CMR
+2010,South Africa,Group B,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,31513,Korea Republic,2,0,Greece, ,1,0,KOR,GRE
+2010,South Africa,Group B,Free State Stadium,Mangaung/Bloemfontein ,31593,Greece,2,1,Nigeria, ,1,1,GRE,NGA
+2010,South Africa,Group H,Mbombela Stadium,Nelspruit ,32664,Honduras,0,1,Chile, ,0,1,HON,CHI
+2010,South Africa,Group A,Royal Bafokeng Sports Palace,Phokeng ,33425,Mexico,0,1,Uruguay, ,0,1,MEX,URU
+2010,South Africa,Group G,Mbombela Stadium,Nelspruit ,34763,Korea DPR,0,3,Ivory Coast, ,0,2,PRK,CIV
+2010,South Africa,Group D,Royal Bafokeng Sports Palace,Phokeng ,34812,Ghana,1,1,Australia, ,1,1,GHA,AUS
+2010,South Africa,Group F,Peter Mokaba Stadium,Polokwane ,34850,Paraguay,0,0,New Zealand, ,0,0,PAR,NZL
+2010,South Africa,Group H,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,34872,Chile,1,0,Switzerland, ,0,0,CHI,SUI
+2010,South Africa,Round of 16,Royal Bafokeng Sports Palace,Phokeng ,34976,USA,1,2,Ghana,ET,0,0,USA,GHA
+2010,South Africa,Group A,Peter Mokaba Stadium,Polokwane ,35370,France,0,2,Mexico, ,0,0,FRA,MEX
+2010,South Africa,Group C,Loftus Versfeld Stadium,Tshwane/Pretoria ,35827,USA,1,0,Algeria, ,0,0,USA,ALG
+2010,South Africa,Match for third place,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,36254,Uruguay,2,3,Germany, ,1,1,URU,GER
+2010,South Africa,Round of 16,Loftus Versfeld Stadium,Tshwane/Pretoria ,36742,Paraguay,0,0,Japan,HWP,0,0,PAR,JPN
+2010,South Africa,Group C,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,36893,Slovenia,0,1,England, ,0,1,SVN,ENG
+2010,South Africa,Group G,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,37034,Ivory Coast,0,0,Portugal, ,0,0,CIV,POR
+2010,South Africa,Group D,Mbombela Stadium,Nelspruit ,37836,Australia,2,1,Serbia, ,0,0,AUS,SRB
+2010,South Africa,Group E,Loftus Versfeld Stadium,Tshwane/Pretoria ,38074,Cameroon,1,2,Denmark, ,1,1,CMR,DEN
+2010,South Africa,Group F,Mbombela Stadium,Nelspruit ,38229,Italy,1,1,New Zealand, ,1,1,ITA,NZL
+2010,South Africa,Group D,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,38294,Germany,0,1,Serbia, ,0,1,GER,SRB
+2010,South Africa,Group C,Royal Bafokeng Sports Palace,Phokeng ,38646,England,1,1,USA, ,1,1,ENG,USA
+2010,South Africa,Group D,Loftus Versfeld Stadium,Tshwane/Pretoria ,38833,Serbia,0,1,Ghana, ,0,0,SRB,GHA
+2010,South Africa,Group B,Peter Mokaba Stadium,Polokwane ,38891,Greece,0,2,Argentina, ,0,0,GRE,ARG
+2010,South Africa,Group A,Free State Stadium,Mangaung/Bloemfontein ,39415,France,1,2,South Africa, ,0,2,FRA,RSA
+2010,South Africa,Quarter-finals,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,40186,Netherlands,2,1,Brazil, ,0,1,NED,BRA
+2010,South Africa,Round of 16,Free State Stadium,Mangaung/Bloemfontein ,40510,Germany,4,1,England, ,2,1,GER,ENG
+2010,South Africa,Group H,Loftus Versfeld Stadium,Tshwane/Pretoria ,41958,Chile,1,2,Spain, ,0,2,CHI,ESP
+2010,South Africa,Group A,Loftus Versfeld Stadium,Tshwane/Pretoria ,42658,South Africa,0,3,Uruguay, ,0,1,RSA,URU
+2010,South Africa,Group C,Ellis Park Stadium,Johannesburg ,45573,Slovenia,2,2,USA, ,2,0,SVN,USA
+2010,South Africa,Group F,Ellis Park Stadium,Johannesburg ,53412,Slovakia,3,2,Italy, ,1,0,SVK,ITA
+2010,South Africa,Round of 16,Ellis Park Stadium,Johannesburg ,54096,Brazil,3,0,Chile, ,2,0,BRA,CHI
+2010,South Africa,Group G,Ellis Park Stadium,Johannesburg ,54331,Brazil,2,1,Korea DPR, ,0,0,BRA,PRK
+2010,South Africa,Group H,Ellis Park Stadium,Johannesburg ,54386,Spain,2,0,Honduras, ,1,0,ESP,HON
+2010,South Africa,Quarter-finals,Ellis Park Stadium,Johannesburg ,55359,Paraguay,0,1,Spain, ,0,0,PAR,ESP
+2010,South Africa,Group B,Ellis Park Stadium,Johannesburg ,55686,Argentina,1,0,Nigeria, ,1,0,ARG,NGA
+2010,South Africa,Semi-finals,Durban Stadium,Durban ,60960,Germany,0,1,Spain, ,0,0,GER,ESP
+2010,South Africa,Group B,Durban Stadium,Durban ,61874,Nigeria,2,2,Korea Republic, ,1,1,NGA,KOR
+2010,South Africa,Round of 16,Durban Stadium,Durban ,61962,Netherlands,2,1,Slovakia, ,1,0,NED,SVK
+2010,South Africa,Group E,Durban Stadium,Durban ,62010,Netherlands,1,0,Japan, ,0,0,NED,JPN
+2010,South Africa,Group H,Durban Stadium,Durban ,62453,Spain,0,1,Switzerland, ,0,0,ESP,SUI
+2010,South Africa,Semi-finals,Cape Town Stadium,Cape Town ,62479,Uruguay,2,3,Netherlands, ,1,1,URU,NED
+2010,South Africa,Group D,Durban Stadium,Durban ,62660,Germany,4,0,Australia, ,2,0,GER,AUS
+2010,South Africa,Group G,Durban Stadium,Durban ,62712,Portugal,0,0,Brazil, ,0,0,POR,BRA
+2010,South Africa,Group F,Cape Town Stadium,Cape Town ,62869,Italy,1,1,Paraguay, ,0,1,ITA,PAR
+2010,South Africa,Round of 16,Cape Town Stadium,Cape Town ,62955,Spain,1,0,Portugal, ,0,0,ESP,POR
+2010,South Africa,Group E,Cape Town Stadium,Cape Town ,63093,Cameroon,1,2,Netherlands, ,0,1,CMR,NED
+2010,South Africa,Group G,Cape Town Stadium,Cape Town ,63644,Portugal,7,0,Korea DPR, ,1,0,POR,PRK
+2010,South Africa,Group A,Cape Town Stadium,Cape Town ,64100,Uruguay,0,0,France, ,0,0,URU,FRA
+2010,South Africa,Group C,Cape Town Stadium,Cape Town ,64100,England,0,0,Algeria, ,0,0,ENG,ALG
+2010,South Africa,Quarter-finals,Cape Town Stadium,Cape Town ,64100,Argentina,0,4,Germany, ,0,1,ARG,GER
+2010,South Africa,Group B,Soccer City Stadium,Johannesburg ,82174,Argentina,4,1,Korea Republic, ,2,1,ARG,KOR
+2010,South Africa,Group D,Soccer City Stadium,Johannesburg ,83391,Ghana,0,1,Germany, ,0,0,GHA,GER
+2010,South Africa,Group E,Soccer City Stadium,Johannesburg ,83465,Netherlands,2,0,Denmark, ,0,0,NED,DEN
+2010,South Africa,Quarter-finals,Soccer City Stadium,Johannesburg ,84017,Uruguay,1,1,Ghana,HWP,0,0,URU,GHA
+2010,South Africa,Round of 16,Soccer City Stadium,Johannesburg ,84377,Argentina,3,1,Mexico, ,2,0,ARG,MEX
+2010,South Africa,Group G,Soccer City Stadium,Johannesburg ,84455,Brazil,3,1,Ivory Coast, ,1,0,BRA,CIV
+2010,South Africa,Group A,Soccer City Stadium,Johannesburg ,84490,South Africa,1,1,Mexico, ,0,0,RSA,MEX
+2010,South Africa,Final,Soccer City Stadium,Johannesburg ,84490,Netherlands,0,1,Spain,ET,0,0,NED,ESP
+2014,Brazil,Group H,Arena Pantanal,Cuiaba ,37603,Russia,1,1,Korea Republic, ,0,0,RUS,KOR
+2014,Brazil,Group F,Arena da Baixada,Curitiba ,39081,IR Iran,0,0,Nigeria, ,0,0,IRN,NGA
+2014,Brazil,Group A,Estadio das Dunas,Natal ,39216,Mexico,1,0,Cameroon, ,0,0,MEX,CMR
+2014,Brazil,Group E,Arena da Baixada,Curitiba ,39224,Honduras,1,2,Ecuador, ,1,1,HON,ECU
+2014,Brazil,Group H,Arena da Baixada,Curitiba ,39311,Algeria,1,1,Russia, ,0,1,ALG,RUS
+2014,Brazil,Group B,Arena da Baixada,Curitiba ,39375,Australia,0,3,Spain, ,0,1,AUS,ESP
+2014,Brazil,Group C,Estadio das Dunas,Natal ,39485,Japan,0,0,Greece, ,0,0,JPN,GRE
+2014,Brazil,Group D,Estadio das Dunas,Natal ,39706,Italy,0,1,Uruguay, ,0,0,ITA,URU
+2014,Brazil,Group G,Estadio das Dunas,Natal ,39760,Ghana,1,2,USA, ,0,1,GHA,USA
+2014,Brazil,Group D,Arena Amazonia,Manaus ,39800,England,1,2,Italy, ,1,1,ENG,ITA
+2014,Brazil,Group A,Arena Amazonia,Manaus ,39982,Cameroon,0,4,Croatia, ,0,1,CMR,CRO
+2014,Brazil,Group G,Arena Amazonia,Manaus ,40123,USA,2,2,Portugal, ,0,1,USA,POR
+2014,Brazil,Group C,Arena Pernambuco,Recife ,40267,Ivory Coast,2,1,Japan, ,0,1,CIV,JPN
+2014,Brazil,Group B,Arena Pantanal,Cuiaba ,40275,Chile,3,1,Australia, ,2,1,CHI,AUS
+2014,Brazil,Group D,Arena Pernambuco,Recife ,40285,Italy,0,1,Costa Rica, ,0,1,ITA,CRC
+2014,Brazil,Group E,Arena Amazonia,Manaus ,40322,Honduras,0,3,Switzerland, ,0,2,HON,SUI
+2014,Brazil,Group C,Arena Pantanal,Cuiaba ,40340,Japan,1,4,Colombia, ,1,1,JPN,COL
+2014,Brazil,Group F,Arena Pantanal,Cuiaba ,40499,Nigeria,1,0,Bosnia and Herzegovina, ,1,0,NGA,BIH
+2014,Brazil,Group A,Arena Pernambuco,Recife ,41212,Croatia,1,3,Mexico, ,0,0,CRO,MEX
+2014,Brazil,Round of 16,Arena Pernambuco,Recife ,41242,Costa Rica,1,1,Greece,HWP,0,0,CRC,GRE
+2014,Brazil,Group G,Arena Pernambuco,Recife ,41876,USA,0,1,Germany, ,0,0,USA,GER
+2014,Brazil,Group H,Estadio Beira-Rio,Porto Alegre ,42732,Korea Republic,2,4,Algeria, ,0,3,KOR,ALG
+2014,Brazil,Group B,Estadio Beira-Rio,Porto Alegre ,42877,Australia,2,3,Netherlands, ,1,1,AUS,NED
+2014,Brazil,Group E,Estadio Beira-Rio,Porto Alegre ,43012,France,3,0,Honduras, ,1,0,FRA,HON
+2014,Brazil,Group F,Estadio Beira-Rio,Porto Alegre ,43285,Nigeria,2,3,Argentina, ,1,2,NGA,ARG
+2014,Brazil,Group F,Arena Fonte Nova,Salvador ,48011,Bosnia and Herzegovina,3,1,IR Iran, ,1,0,BIH,IRN
+2014,Brazil,Group B,Arena Fonte Nova,Salvador ,48173,Spain,1,5,Netherlands, ,1,1,ESP,NED
+2014,Brazil,Group E,Arena Fonte Nova,Salvador ,51003,Switzerland,2,5,France, ,0,3,SUI,FRA
+2014,Brazil,Group G,Arena Fonte Nova,Salvador ,51081,Germany,4,0,Portugal, ,3,0,GER,POR
+2014,Brazil,Quarter-finals,Arena Fonte Nova,Salvador ,51179,Netherlands,0,0,Costa Rica,HWP,0,0,NED,CRC
+2014,Brazil,Round of 16,Arena Fonte Nova,Salvador ,51227,Belgium,2,1,USA,ET,0,0,BEL,USA
+2014,Brazil,Round of 16,Estadio Beira-Rio,Porto Alegre ,56789,Germany,2,1,Algeria,ET,0,0,GER,ALG
+2014,Brazil,Group H,Estadio Mineirao,Belo Horizonte ,56800,Belgium,2,1,Algeria, ,0,1,BEL,ALG
+2014,Brazil,Group C,Estadio Mineirao,Belo Horizonte ,57174,Colombia,3,0,Greece, ,1,0,COL,GRE
+2014,Brazil,Group F,Estadio Mineirao,Belo Horizonte ,57698,Argentina,1,0,IR Iran, ,0,0,ARG,IRN
+2014,Brazil,Round of 16,Estadio Mineirao,Belo Horizonte ,57714,Brazil,1,1,Chile,HWP,0,0,BRA,CHI
+2014,Brazil,Group D,Estadio Mineirao,Belo Horizonte ,57823,Costa Rica,0,0,England, ,0,0,CRC,ENG
+2014,Brazil,Semi-finals,Estadio Mineirao,Belo Horizonte ,58141,Brazil,1,7,Germany, ,0,5,BRA,GER
+2014,Brazil,Group D,Estadio Castelao,Fortaleza ,58679,Uruguay,1,3,Costa Rica, ,1,0,URU,CRC
+2014,Brazil,Round of 16,Estadio Castelao,Fortaleza ,58817,Netherlands,2,1,Mexico, ,0,0,NED,MEX
+2014,Brazil,Group C,Estadio Castelao,Fortaleza ,59095,Greece,2,1,Ivory Coast, ,1,0,GRE,CIV
+2014,Brazil,Group G,Estadio Castelao,Fortaleza ,59621,Germany,2,2,Ghana, ,0,0,GER,GHA
+2014,Brazil,Group A,Estadio Castelao,Fortaleza ,60342,Brazil,0,0,Mexico, ,0,0,BRA,MEX
+2014,Brazil,Quarter-finals,Estadio Castelao,Fortaleza ,60342,Brazil,2,1,Colombia, ,1,0,BRA,COL
+2014,Brazil,Group H,Arena de Sao Paulo,Sao Paulo ,61397,Korea Republic,0,1,Belgium, ,0,0,KOR,BEL
+2014,Brazil,Group A,Arena de Sao Paulo,Sao Paulo ,62103,Brazil,3,1,Croatia, ,1,1,BRA,CRO
+2014,Brazil,Group D,Arena de Sao Paulo,Sao Paulo ,62575,Uruguay,2,1,England, ,1,0,URU,ENG
+2014,Brazil,Group B,Arena de Sao Paulo,Sao Paulo ,62996,Netherlands,2,0,Chile, ,0,0,NED,CHI
+2014,Brazil,Round of 16,Arena de Sao Paulo,Sao Paulo ,63255,Argentina,1,0,Switzerland,ET,0,0,ARG,SUI
+2014,Brazil,Semi-finals,Arena de Sao Paulo,Sao Paulo ,63267,Netherlands,0,0,Argentina,AWP,0,0,NED,ARG
+2014,Brazil,Round of 16,Estadio Beira-Rio,Porto Alegre ,65899,Germany,2,1,Algeria,ET,0,0,GER,ALG
+2014,Brazil,Group G,Estadio Nacional,Brasilia ,67540,Portugal,2,1,Ghana, ,1,0,POR,GHA
+2014,Brazil,Round of 16,Estadio Nacional,Brasilia ,67882,France,2,0,Nigeria, ,0,0,FRA,NGA
+2014,Brazil,Play-off for third place,Estadio Nacional,Brasilia ,68034,Brazil,0,3,Netherlands, ,0,2,BRA,NED
+2014,Brazil,Group E,Estadio Nacional,Brasilia ,68351,Switzerland,2,1,Ecuador, ,0,1,SUI,ECU
+2014,Brazil,Quarter-finals,Estadio Nacional,Brasilia ,68551,Argentina,1,0,Belgium, ,1,0,ARG,BEL
+2014,Brazil,Group C,Estadio Nacional,Brasilia ,68748,Colombia,2,1,Ivory Coast, ,0,0,COL,CIV
+2014,Brazil,Group A,Estadio Nacional,Brasilia ,69112,Cameroon,1,4,Brazil, ,1,2,CMR,BRA
+2014,Brazil,Group E,Estadio do Maracana,Rio De Janeiro ,73749,Ecuador,0,0,France, ,0,0,ECU,FRA
+2014,Brazil,Round of 16,Estadio do Maracana,Rio De Janeiro ,73804,Colombia,2,0,Uruguay, ,1,0,COL,URU
+2014,Brazil,Group H,Estadio do Maracana,Rio De Janeiro ,73819,Belgium,1,0,Russia, ,0,0,BEL,RUS
+2014,Brazil,Group B,Estadio do Maracana,Rio De Janeiro ,74101,Spain,0,2,Chile, ,0,2,ESP,CHI
+2014,Brazil,Quarter-finals,Estadio do Maracana,Rio De Janeiro ,74240,France,0,1,Germany, ,0,1,FRA,GER
+2014,Brazil,Group F,Estadio do Maracana,Rio De Janeiro ,74738,Argentina,2,1,Bosnia and Herzegovina, ,1,0,ARG,BIH
+2014,Brazil,Final,Estadio do Maracana,Rio De Janeiro ,74738,Germany,1,0,Argentina,ET,0,0,GER,ARG
